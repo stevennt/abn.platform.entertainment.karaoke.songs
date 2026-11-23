@@ -1,0 +1,695 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 4444,
+      "endMs": 6667,
+      "singer": "solo",
+      "text": "Neon on the water",
+      "words": [
+        {
+          "text": "Neon",
+          "startMs": 4444,
+          "endMs": 5000
+        },
+        {
+          "text": "on",
+          "startMs": 5000,
+          "endMs": 5278
+        },
+        {
+          "text": "the",
+          "startMs": 5278,
+          "endMs": 5556
+        },
+        {
+          "text": "water",
+          "startMs": 5556,
+          "endMs": 6667
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "startMs": 6667,
+      "endMs": 8889,
+      "singer": "solo",
+      "text": "Every window glowing",
+      "words": [
+        {
+          "text": "Every",
+          "startMs": 6667,
+          "endMs": 7222
+        },
+        {
+          "text": "window",
+          "startMs": 7222,
+          "endMs": 7778
+        },
+        {
+          "text": "glowing",
+          "startMs": 7778,
+          "endMs": 8889
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "startMs": 8889,
+      "endMs": 11111,
+      "singer": "solo",
+      "text": "Someone's playing something",
+      "words": [
+        {
+          "text": "Someone's",
+          "startMs": 8889,
+          "endMs": 9444
+        },
+        {
+          "text": "playing",
+          "startMs": 9444,
+          "endMs": 10000
+        },
+        {
+          "text": "something",
+          "startMs": 10000,
+          "endMs": 11111
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "startMs": 11111,
+      "endMs": 13333,
+      "singer": "solo",
+      "text": "That we used to know",
+      "words": [
+        {
+          "text": "That",
+          "startMs": 11111,
+          "endMs": 11389
+        },
+        {
+          "text": "we",
+          "startMs": 11389,
+          "endMs": 11667
+        },
+        {
+          "text": "used",
+          "startMs": 11667,
+          "endMs": 12222
+        },
+        {
+          "text": "to",
+          "startMs": 12222,
+          "endMs": 12778
+        },
+        {
+          "text": "know",
+          "startMs": 12778,
+          "endMs": 13333
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "startMs": 13333,
+      "endMs": 15556,
+      "singer": "solo",
+      "text": "Turn it up and let it run",
+      "words": [
+        {
+          "text": "Turn",
+          "startMs": 13333,
+          "endMs": 13611
+        },
+        {
+          "text": "it",
+          "startMs": 13611,
+          "endMs": 13889
+        },
+        {
+          "text": "up",
+          "startMs": 13889,
+          "endMs": 14167
+        },
+        {
+          "text": "and",
+          "startMs": 14167,
+          "endMs": 14444
+        },
+        {
+          "text": "let",
+          "startMs": 14444,
+          "endMs": 14722
+        },
+        {
+          "text": "it",
+          "startMs": 14722,
+          "endMs": 15000
+        },
+        {
+          "text": "run",
+          "startMs": 15000,
+          "endMs": 15556
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "startMs": 15556,
+      "endMs": 17778,
+      "singer": "solo",
+      "text": "We are not going home",
+      "words": [
+        {
+          "text": "We",
+          "startMs": 15556,
+          "endMs": 15833
+        },
+        {
+          "text": "are",
+          "startMs": 15833,
+          "endMs": 16111
+        },
+        {
+          "text": "not",
+          "startMs": 16111,
+          "endMs": 16389
+        },
+        {
+          "text": "going",
+          "startMs": 16389,
+          "endMs": 17222
+        },
+        {
+          "text": "home",
+          "startMs": 17222,
+          "endMs": 17778
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "startMs": 17778,
+      "endMs": 20000,
+      "singer": "solo",
+      "text": "Neon night we just begun",
+      "words": [
+        {
+          "text": "Neon",
+          "startMs": 17778,
+          "endMs": 18333
+        },
+        {
+          "text": "night",
+          "startMs": 18333,
+          "endMs": 18611
+        },
+        {
+          "text": "we",
+          "startMs": 18611,
+          "endMs": 18889
+        },
+        {
+          "text": "just",
+          "startMs": 18889,
+          "endMs": 19167
+        },
+        {
+          "text": "begun",
+          "startMs": 19167,
+          "endMs": 20000
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "startMs": 20000,
+      "endMs": 22222,
+      "singer": "solo",
+      "text": "Turn it up and let it run",
+      "words": [
+        {
+          "text": "Turn",
+          "startMs": 20000,
+          "endMs": 20278
+        },
+        {
+          "text": "it",
+          "startMs": 20278,
+          "endMs": 20556
+        },
+        {
+          "text": "up",
+          "startMs": 20556,
+          "endMs": 20833
+        },
+        {
+          "text": "and",
+          "startMs": 20833,
+          "endMs": 21111
+        },
+        {
+          "text": "let",
+          "startMs": 21111,
+          "endMs": 21389
+        },
+        {
+          "text": "it",
+          "startMs": 21389,
+          "endMs": 21667
+        },
+        {
+          "text": "run",
+          "startMs": 21667,
+          "endMs": 22222
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "startMs": 22222,
+      "endMs": 24444,
+      "singer": "solo",
+      "text": "Neon on the water",
+      "words": [
+        {
+          "text": "Neon",
+          "startMs": 22222,
+          "endMs": 22778
+        },
+        {
+          "text": "on",
+          "startMs": 22778,
+          "endMs": 23056
+        },
+        {
+          "text": "the",
+          "startMs": 23056,
+          "endMs": 23333
+        },
+        {
+          "text": "water",
+          "startMs": 23333,
+          "endMs": 24444
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "startMs": 24444,
+      "endMs": 26667,
+      "singer": "solo",
+      "text": "Every window glowing",
+      "words": [
+        {
+          "text": "Every",
+          "startMs": 24444,
+          "endMs": 25000
+        },
+        {
+          "text": "window",
+          "startMs": 25000,
+          "endMs": 25556
+        },
+        {
+          "text": "glowing",
+          "startMs": 25556,
+          "endMs": 26667
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "startMs": 26667,
+      "endMs": 28889,
+      "singer": "solo",
+      "text": "Someone's playing something",
+      "words": [
+        {
+          "text": "Someone's",
+          "startMs": 26667,
+          "endMs": 27222
+        },
+        {
+          "text": "playing",
+          "startMs": 27222,
+          "endMs": 27778
+        },
+        {
+          "text": "something",
+          "startMs": 27778,
+          "endMs": 28889
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "startMs": 28889,
+      "endMs": 31111,
+      "singer": "solo",
+      "text": "That we used to know",
+      "words": [
+        {
+          "text": "That",
+          "startMs": 28889,
+          "endMs": 29167
+        },
+        {
+          "text": "we",
+          "startMs": 29167,
+          "endMs": 29444
+        },
+        {
+          "text": "used",
+          "startMs": 29444,
+          "endMs": 30000
+        },
+        {
+          "text": "to",
+          "startMs": 30000,
+          "endMs": 30556
+        },
+        {
+          "text": "know",
+          "startMs": 30556,
+          "endMs": 31111
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "startMs": 31111,
+      "endMs": 33333,
+      "singer": "solo",
+      "text": "Turn it up and let it run",
+      "words": [
+        {
+          "text": "Turn",
+          "startMs": 31111,
+          "endMs": 31389
+        },
+        {
+          "text": "it",
+          "startMs": 31389,
+          "endMs": 31667
+        },
+        {
+          "text": "up",
+          "startMs": 31667,
+          "endMs": 31944
+        },
+        {
+          "text": "and",
+          "startMs": 31944,
+          "endMs": 32222
+        },
+        {
+          "text": "let",
+          "startMs": 32222,
+          "endMs": 32500
+        },
+        {
+          "text": "it",
+          "startMs": 32500,
+          "endMs": 32778
+        },
+        {
+          "text": "run",
+          "startMs": 32778,
+          "endMs": 33333
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "startMs": 33333,
+      "endMs": 35556,
+      "singer": "solo",
+      "text": "We are not going home",
+      "words": [
+        {
+          "text": "We",
+          "startMs": 33333,
+          "endMs": 33611
+        },
+        {
+          "text": "are",
+          "startMs": 33611,
+          "endMs": 33889
+        },
+        {
+          "text": "not",
+          "startMs": 33889,
+          "endMs": 34167
+        },
+        {
+          "text": "going",
+          "startMs": 34167,
+          "endMs": 35000
+        },
+        {
+          "text": "home",
+          "startMs": 35000,
+          "endMs": 35556
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "startMs": 35556,
+      "endMs": 37778,
+      "singer": "solo",
+      "text": "Neon night we just begun",
+      "words": [
+        {
+          "text": "Neon",
+          "startMs": 35556,
+          "endMs": 36111
+        },
+        {
+          "text": "night",
+          "startMs": 36111,
+          "endMs": 36389
+        },
+        {
+          "text": "we",
+          "startMs": 36389,
+          "endMs": 36667
+        },
+        {
+          "text": "just",
+          "startMs": 36667,
+          "endMs": 36944
+        },
+        {
+          "text": "begun",
+          "startMs": 36944,
+          "endMs": 37778
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "startMs": 37778,
+      "endMs": 40000,
+      "singer": "solo",
+      "text": "Turn it up and let it run",
+      "words": [
+        {
+          "text": "Turn",
+          "startMs": 37778,
+          "endMs": 38056
+        },
+        {
+          "text": "it",
+          "startMs": 38056,
+          "endMs": 38333
+        },
+        {
+          "text": "up",
+          "startMs": 38333,
+          "endMs": 38611
+        },
+        {
+          "text": "and",
+          "startMs": 38611,
+          "endMs": 38889
+        },
+        {
+          "text": "let",
+          "startMs": 38889,
+          "endMs": 39167
+        },
+        {
+          "text": "it",
+          "startMs": 39167,
+          "endMs": 39444
+        },
+        {
+          "text": "run",
+          "startMs": 39444,
+          "endMs": 40000
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "startMs": 40000,
+      "endMs": 42222,
+      "singer": "solo",
+      "text": "Turn it up and let it run",
+      "words": [
+        {
+          "text": "Turn",
+          "startMs": 40000,
+          "endMs": 40278
+        },
+        {
+          "text": "it",
+          "startMs": 40278,
+          "endMs": 40556
+        },
+        {
+          "text": "up",
+          "startMs": 40556,
+          "endMs": 40833
+        },
+        {
+          "text": "and",
+          "startMs": 40833,
+          "endMs": 41111
+        },
+        {
+          "text": "let",
+          "startMs": 41111,
+          "endMs": 41389
+        },
+        {
+          "text": "it",
+          "startMs": 41389,
+          "endMs": 41667
+        },
+        {
+          "text": "run",
+          "startMs": 41667,
+          "endMs": 42222
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "startMs": 42222,
+      "endMs": 44444,
+      "singer": "solo",
+      "text": "We are not going home",
+      "words": [
+        {
+          "text": "We",
+          "startMs": 42222,
+          "endMs": 42500
+        },
+        {
+          "text": "are",
+          "startMs": 42500,
+          "endMs": 42778
+        },
+        {
+          "text": "not",
+          "startMs": 42778,
+          "endMs": 43056
+        },
+        {
+          "text": "going",
+          "startMs": 43056,
+          "endMs": 43889
+        },
+        {
+          "text": "home",
+          "startMs": 43889,
+          "endMs": 44444
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "startMs": 44444,
+      "endMs": 46667,
+      "singer": "solo",
+      "text": "Neon night we just begun",
+      "words": [
+        {
+          "text": "Neon",
+          "startMs": 44444,
+          "endMs": 45000
+        },
+        {
+          "text": "night",
+          "startMs": 45000,
+          "endMs": 45278
+        },
+        {
+          "text": "we",
+          "startMs": 45278,
+          "endMs": 45556
+        },
+        {
+          "text": "just",
+          "startMs": 45556,
+          "endMs": 45833
+        },
+        {
+          "text": "begun",
+          "startMs": 45833,
+          "endMs": 46667
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "startMs": 46667,
+      "endMs": 48889,
+      "singer": "solo",
+      "text": "Turn it up and let it run",
+      "words": [
+        {
+          "text": "Turn",
+          "startMs": 46667,
+          "endMs": 46944
+        },
+        {
+          "text": "it",
+          "startMs": 46944,
+          "endMs": 47222
+        },
+        {
+          "text": "up",
+          "startMs": 47222,
+          "endMs": 47500
+        },
+        {
+          "text": "and",
+          "startMs": 47500,
+          "endMs": 47778
+        },
+        {
+          "text": "let",
+          "startMs": 47778,
+          "endMs": 48056
+        },
+        {
+          "text": "it",
+          "startMs": 48056,
+          "endMs": 48333
+        },
+        {
+          "text": "run",
+          "startMs": 48333,
+          "endMs": 48889
+        }
+      ]
+    }
+  ]
+}

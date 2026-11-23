@@ -3,6 +3,50 @@
   "updated": "2026-11-23",
   "songs": [
     {
+      "id": "neon-night",
+      "title": "Neon Night",
+      "artist": "ABN Asia",
+      "language": "en",
+      "durationMs": 54733,
+      "bpm": 108,
+      "key": "Am",
+      "difficulty": 2,
+      "mode": "full",
+      "assets": {
+        "backing": {
+          "path": "songs/neon-night/audio/backing.m4a",
+          "sha256": "fd90529ef01fe188120e9b830faeaa74e4d096b365ccd20b408b338a22930180",
+          "bytes": 666535
+        },
+        "lyrics": {
+          "path": "songs/neon-night/lyrics.json",
+          "sha256": "d3a112dfd5b79415606ff08870423bd29847ea570b514788d8a918d24757722a",
+          "bytes": 13499
+        },
+        "melody": {
+          "path": "songs/neon-night/melody.json",
+          "sha256": "d0ef82cbb58acb767d0460b50beb05e7645dc927df8255ee0599712d7f40316e",
+          "bytes": 14308
+        },
+        "cover": {
+          "path": "songs/neon-night/cover.png",
+          "sha256": "d144a67be517152c66db49f2f826c52fc98ab100ad1b5e50eb7e79e97418f3f4",
+          "bytes": 22309
+        }
+      },
+      "pack": {
+        "path": "packs/neon-night-5de91fdb.zip",
+        "sha256": "5de91fdb43741812ccf285f7e79e7fbe8aeda6cfe228a73ea5f9ce46a44a27e2",
+        "bytes": 680798
+      },
+      "licence": {
+        "type": "owned",
+        "note": "Original ABN Asia composition and recording"
+      },
+      "private": true,
+      "updated": "2026-11-23"
+    },
+    {
       "id": "one-more-song",
       "title": "One More Song",
       "artist": "ABN Asia",

@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "id": "neon-night",
+  "title": "Neon Night",
+  "artist": "ABN Asia",
+  "language": "en",
+  "bpm": 108,
+  "key": "Am",
+  "durationMs": 54733,
+  "difficulty": 2,
+  "sections": [
+    {
+      "name": "intro",
+      "startMs": 0,
+      "endMs": 4444
+    },
+    {
+      "name": "verse1",
+      "startMs": 4444,
+      "endMs": 13333
+    },
+    {
+      "name": "chorus1",
+      "startMs": 13333,
+      "endMs": 22222
+    },
+    {
+      "name": "verse2",
+      "startMs": 22222,
+      "endMs": 31111
+    },
+    {
+      "name": "chorus2",
+      "startMs": 31111,
+      "endMs": 40000
+    },
+    {
+      "name": "chorus3",
+      "startMs": 40000,
+      "endMs": 48889
+    },
+    {
+      "name": "outro",
+      "startMs": 48889,
+      "endMs": 53333
+    }
+  ],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "melody": "melody.json",
+    "lyrics": "lyrics.json",
+    "cover": "cover.png"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "ABN Asia"
+    },
+    {
+      "role": "lyrics",
+      "name": "ABN Asia"
+    }
+  ],
+  "license": {
+    "type": "owned",
+    "note": "Original ABN Asia composition and recording"
+  }
+}

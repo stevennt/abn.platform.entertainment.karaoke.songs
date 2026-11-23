@@ -1,0 +1,4 @@
+Neon Night — ABN Asia
+Music and lyrics: ABN Asia (original work)
+Recording: rendered in-house from tools/songs/songs.py
+Licence: owned — all rights ABN Asia
