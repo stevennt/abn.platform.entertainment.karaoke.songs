@@ -49,5 +49,7 @@ Publishing (issue #36) adds the entry to `index.json` and pushes.
 
 ## Status
 
-- 2026-11-23 — repo created empty by issue #32; no songs yet. The first three entries will be the
-  ABN Asia originals (issue #37).
+- 2026-11-23 — repo created empty by issue #32.
+- 2026-11-23 — the three ABN Asia originals published by issue #37: `spotlight`,
+  `one-more-song`, `neon-night`. All `owned`, all `full` (with melodies), all `private: true` until
+  a human clears them for the app catalogue.
