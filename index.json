@@ -3,6 +3,50 @@
   "updated": "2026-11-23",
   "songs": [
     {
+      "id": "one-more-song",
+      "title": "One More Song",
+      "artist": "ABN Asia",
+      "language": "en",
+      "durationMs": 77189,
+      "bpm": 76,
+      "key": "G",
+      "difficulty": 2,
+      "mode": "full",
+      "assets": {
+        "backing": {
+          "path": "songs/one-more-song/audio/backing.m4a",
+          "sha256": "e6f652af18842ed6643cbd28be3739864d7bf732fcbba199d8e1dc7db7ab9ca7",
+          "bytes": 940450
+        },
+        "lyrics": {
+          "path": "songs/one-more-song/lyrics.json",
+          "sha256": "99dfd97997b921e5458ca695bd059f92ab24a0f83a290286066a910c08ae6537",
+          "bytes": 14654
+        },
+        "melody": {
+          "path": "songs/one-more-song/melody.json",
+          "sha256": "4971502b7ee2bc8c8e824904028075f57b04be935fbb132ef994fb4e8b4bfe56",
+          "bytes": 14877
+        },
+        "cover": {
+          "path": "songs/one-more-song/cover.png",
+          "sha256": "465cb6386c7350731ba887f4c13c3c16eff09fe70a446213e38a64ec1dbbfa7e",
+          "bytes": 22469
+        }
+      },
+      "pack": {
+        "path": "packs/one-more-song-36b2ad7b.zip",
+        "sha256": "36b2ad7b9b58486450a9a24e92b62904d8485c4480f38258056ea543e45c920e",
+        "bytes": 951217
+      },
+      "licence": {
+        "type": "owned",
+        "note": "Original ABN Asia composition and recording"
+      },
+      "private": true,
+      "updated": "2026-11-23"
+    },
+    {
       "id": "spotlight",
       "title": "Spotlight",
       "artist": "ABN Asia",

@@ -1,0 +1,750 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 6316,
+      "endMs": 9474,
+      "singer": "solo",
+      "text": "Stay a little longer now",
+      "words": [
+        {
+          "text": "Stay",
+          "startMs": 6316,
+          "endMs": 6711
+        },
+        {
+          "text": "a",
+          "startMs": 6711,
+          "endMs": 7105
+        },
+        {
+          "text": "little",
+          "startMs": 7105,
+          "endMs": 7895
+        },
+        {
+          "text": "longer",
+          "startMs": 7895,
+          "endMs": 8684
+        },
+        {
+          "text": "now",
+          "startMs": 8684,
+          "endMs": 9474
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "startMs": 9474,
+      "endMs": 12632,
+      "singer": "solo",
+      "text": "Let the evening slow down",
+      "words": [
+        {
+          "text": "Let",
+          "startMs": 9474,
+          "endMs": 9868
+        },
+        {
+          "text": "the",
+          "startMs": 9868,
+          "endMs": 10263
+        },
+        {
+          "text": "evening",
+          "startMs": 10263,
+          "endMs": 11053
+        },
+        {
+          "text": "slow",
+          "startMs": 11053,
+          "endMs": 11842
+        },
+        {
+          "text": "down",
+          "startMs": 11842,
+          "endMs": 12632
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "startMs": 12632,
+      "endMs": 15789,
+      "singer": "solo",
+      "text": "Every note we offer",
+      "words": [
+        {
+          "text": "Every",
+          "startMs": 12632,
+          "endMs": 13421
+        },
+        {
+          "text": "note",
+          "startMs": 13421,
+          "endMs": 13816
+        },
+        {
+          "text": "we",
+          "startMs": 13816,
+          "endMs": 14211
+        },
+        {
+          "text": "offer",
+          "startMs": 14211,
+          "endMs": 15789
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "startMs": 15789,
+      "endMs": 18947,
+      "singer": "solo",
+      "text": "Is a thing we know",
+      "words": [
+        {
+          "text": "Is",
+          "startMs": 15789,
+          "endMs": 16184
+        },
+        {
+          "text": "a",
+          "startMs": 16184,
+          "endMs": 16579
+        },
+        {
+          "text": "thing",
+          "startMs": 16579,
+          "endMs": 17368
+        },
+        {
+          "text": "we",
+          "startMs": 17368,
+          "endMs": 18158
+        },
+        {
+          "text": "know",
+          "startMs": 18158,
+          "endMs": 18947
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "startMs": 18947,
+      "endMs": 22105,
+      "singer": "solo",
+      "text": "One more song before we go",
+      "words": [
+        {
+          "text": "One",
+          "startMs": 18947,
+          "endMs": 19342
+        },
+        {
+          "text": "more",
+          "startMs": 19342,
+          "endMs": 19737
+        },
+        {
+          "text": "song",
+          "startMs": 19737,
+          "endMs": 20132
+        },
+        {
+          "text": "before",
+          "startMs": 20132,
+          "endMs": 20921
+        },
+        {
+          "text": "we",
+          "startMs": 20921,
+          "endMs": 21316
+        },
+        {
+          "text": "go",
+          "startMs": 21316,
+          "endMs": 22105
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "startMs": 22105,
+      "endMs": 25263,
+      "singer": "solo",
+      "text": "One more line to let it show",
+      "words": [
+        {
+          "text": "One",
+          "startMs": 22105,
+          "endMs": 22500
+        },
+        {
+          "text": "more",
+          "startMs": 22500,
+          "endMs": 22895
+        },
+        {
+          "text": "line",
+          "startMs": 22895,
+          "endMs": 23289
+        },
+        {
+          "text": "to",
+          "startMs": 23289,
+          "endMs": 23684
+        },
+        {
+          "text": "let",
+          "startMs": 23684,
+          "endMs": 24079
+        },
+        {
+          "text": "it",
+          "startMs": 24079,
+          "endMs": 24474
+        },
+        {
+          "text": "show",
+          "startMs": 24474,
+          "endMs": 25263
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "startMs": 25263,
+      "endMs": 28421,
+      "singer": "solo",
+      "text": "Hold the chorus one more time",
+      "words": [
+        {
+          "text": "Hold",
+          "startMs": 25263,
+          "endMs": 25658
+        },
+        {
+          "text": "the",
+          "startMs": 25658,
+          "endMs": 26053
+        },
+        {
+          "text": "chorus",
+          "startMs": 26053,
+          "endMs": 26842
+        },
+        {
+          "text": "one",
+          "startMs": 26842,
+          "endMs": 27237
+        },
+        {
+          "text": "more",
+          "startMs": 27237,
+          "endMs": 27632
+        },
+        {
+          "text": "time",
+          "startMs": 27632,
+          "endMs": 28421
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "startMs": 28421,
+      "endMs": 31579,
+      "singer": "solo",
+      "text": "Every word is yours and mine",
+      "words": [
+        {
+          "text": "Every",
+          "startMs": 28421,
+          "endMs": 29211
+        },
+        {
+          "text": "word",
+          "startMs": 29211,
+          "endMs": 29605
+        },
+        {
+          "text": "is",
+          "startMs": 29605,
+          "endMs": 30000
+        },
+        {
+          "text": "yours",
+          "startMs": 30000,
+          "endMs": 30395
+        },
+        {
+          "text": "and",
+          "startMs": 30395,
+          "endMs": 30789
+        },
+        {
+          "text": "mine",
+          "startMs": 30789,
+          "endMs": 31579
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "startMs": 31579,
+      "endMs": 34737,
+      "singer": "solo",
+      "text": "Stay a little longer now",
+      "words": [
+        {
+          "text": "Stay",
+          "startMs": 31579,
+          "endMs": 31974
+        },
+        {
+          "text": "a",
+          "startMs": 31974,
+          "endMs": 32368
+        },
+        {
+          "text": "little",
+          "startMs": 32368,
+          "endMs": 33158
+        },
+        {
+          "text": "longer",
+          "startMs": 33158,
+          "endMs": 33947
+        },
+        {
+          "text": "now",
+          "startMs": 33947,
+          "endMs": 34737
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "startMs": 34737,
+      "endMs": 37895,
+      "singer": "solo",
+      "text": "Let the evening slow down",
+      "words": [
+        {
+          "text": "Let",
+          "startMs": 34737,
+          "endMs": 35132
+        },
+        {
+          "text": "the",
+          "startMs": 35132,
+          "endMs": 35526
+        },
+        {
+          "text": "evening",
+          "startMs": 35526,
+          "endMs": 36316
+        },
+        {
+          "text": "slow",
+          "startMs": 36316,
+          "endMs": 37105
+        },
+        {
+          "text": "down",
+          "startMs": 37105,
+          "endMs": 37895
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "startMs": 37895,
+      "endMs": 41053,
+      "singer": "solo",
+      "text": "Every note we offer",
+      "words": [
+        {
+          "text": "Every",
+          "startMs": 37895,
+          "endMs": 38684
+        },
+        {
+          "text": "note",
+          "startMs": 38684,
+          "endMs": 39079
+        },
+        {
+          "text": "we",
+          "startMs": 39079,
+          "endMs": 39474
+        },
+        {
+          "text": "offer",
+          "startMs": 39474,
+          "endMs": 41053
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "startMs": 41053,
+      "endMs": 44211,
+      "singer": "solo",
+      "text": "Is a thing we know",
+      "words": [
+        {
+          "text": "Is",
+          "startMs": 41053,
+          "endMs": 41447
+        },
+        {
+          "text": "a",
+          "startMs": 41447,
+          "endMs": 41842
+        },
+        {
+          "text": "thing",
+          "startMs": 41842,
+          "endMs": 42632
+        },
+        {
+          "text": "we",
+          "startMs": 42632,
+          "endMs": 43421
+        },
+        {
+          "text": "know",
+          "startMs": 43421,
+          "endMs": 44211
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "startMs": 44211,
+      "endMs": 47368,
+      "singer": "solo",
+      "text": "One more song before we go",
+      "words": [
+        {
+          "text": "One",
+          "startMs": 44211,
+          "endMs": 44605
+        },
+        {
+          "text": "more",
+          "startMs": 44605,
+          "endMs": 45000
+        },
+        {
+          "text": "song",
+          "startMs": 45000,
+          "endMs": 45395
+        },
+        {
+          "text": "before",
+          "startMs": 45395,
+          "endMs": 46184
+        },
+        {
+          "text": "we",
+          "startMs": 46184,
+          "endMs": 46579
+        },
+        {
+          "text": "go",
+          "startMs": 46579,
+          "endMs": 47368
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "startMs": 47368,
+      "endMs": 50526,
+      "singer": "solo",
+      "text": "One more line to let it show",
+      "words": [
+        {
+          "text": "One",
+          "startMs": 47368,
+          "endMs": 47763
+        },
+        {
+          "text": "more",
+          "startMs": 47763,
+          "endMs": 48158
+        },
+        {
+          "text": "line",
+          "startMs": 48158,
+          "endMs": 48553
+        },
+        {
+          "text": "to",
+          "startMs": 48553,
+          "endMs": 48947
+        },
+        {
+          "text": "let",
+          "startMs": 48947,
+          "endMs": 49342
+        },
+        {
+          "text": "it",
+          "startMs": 49342,
+          "endMs": 49737
+        },
+        {
+          "text": "show",
+          "startMs": 49737,
+          "endMs": 50526
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "startMs": 50526,
+      "endMs": 53684,
+      "singer": "solo",
+      "text": "Hold the chorus one more time",
+      "words": [
+        {
+          "text": "Hold",
+          "startMs": 50526,
+          "endMs": 50921
+        },
+        {
+          "text": "the",
+          "startMs": 50921,
+          "endMs": 51316
+        },
+        {
+          "text": "chorus",
+          "startMs": 51316,
+          "endMs": 52105
+        },
+        {
+          "text": "one",
+          "startMs": 52105,
+          "endMs": 52500
+        },
+        {
+          "text": "more",
+          "startMs": 52500,
+          "endMs": 52895
+        },
+        {
+          "text": "time",
+          "startMs": 52895,
+          "endMs": 53684
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "startMs": 53684,
+      "endMs": 56842,
+      "singer": "solo",
+      "text": "Every word is yours and mine",
+      "words": [
+        {
+          "text": "Every",
+          "startMs": 53684,
+          "endMs": 54474
+        },
+        {
+          "text": "word",
+          "startMs": 54474,
+          "endMs": 54868
+        },
+        {
+          "text": "is",
+          "startMs": 54868,
+          "endMs": 55263
+        },
+        {
+          "text": "yours",
+          "startMs": 55263,
+          "endMs": 55658
+        },
+        {
+          "text": "and",
+          "startMs": 55658,
+          "endMs": 56053
+        },
+        {
+          "text": "mine",
+          "startMs": 56053,
+          "endMs": 56842
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "startMs": 56842,
+      "endMs": 60000,
+      "singer": "solo",
+      "text": "One more song before we go",
+      "words": [
+        {
+          "text": "One",
+          "startMs": 56842,
+          "endMs": 57237
+        },
+        {
+          "text": "more",
+          "startMs": 57237,
+          "endMs": 57632
+        },
+        {
+          "text": "song",
+          "startMs": 57632,
+          "endMs": 58026
+        },
+        {
+          "text": "before",
+          "startMs": 58026,
+          "endMs": 58816
+        },
+        {
+          "text": "we",
+          "startMs": 58816,
+          "endMs": 59211
+        },
+        {
+          "text": "go",
+          "startMs": 59211,
+          "endMs": 60000
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "startMs": 60000,
+      "endMs": 63158,
+      "singer": "solo",
+      "text": "One more line to let it show",
+      "words": [
+        {
+          "text": "One",
+          "startMs": 60000,
+          "endMs": 60395
+        },
+        {
+          "text": "more",
+          "startMs": 60395,
+          "endMs": 60789
+        },
+        {
+          "text": "line",
+          "startMs": 60789,
+          "endMs": 61184
+        },
+        {
+          "text": "to",
+          "startMs": 61184,
+          "endMs": 61579
+        },
+        {
+          "text": "let",
+          "startMs": 61579,
+          "endMs": 61974
+        },
+        {
+          "text": "it",
+          "startMs": 61974,
+          "endMs": 62368
+        },
+        {
+          "text": "show",
+          "startMs": 62368,
+          "endMs": 63158
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "startMs": 63158,
+      "endMs": 66316,
+      "singer": "solo",
+      "text": "Hold the chorus one more time",
+      "words": [
+        {
+          "text": "Hold",
+          "startMs": 63158,
+          "endMs": 63553
+        },
+        {
+          "text": "the",
+          "startMs": 63553,
+          "endMs": 63947
+        },
+        {
+          "text": "chorus",
+          "startMs": 63947,
+          "endMs": 64737
+        },
+        {
+          "text": "one",
+          "startMs": 64737,
+          "endMs": 65132
+        },
+        {
+          "text": "more",
+          "startMs": 65132,
+          "endMs": 65526
+        },
+        {
+          "text": "time",
+          "startMs": 65526,
+          "endMs": 66316
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "startMs": 66316,
+      "endMs": 69474,
+      "singer": "solo",
+      "text": "Every word is yours and mine",
+      "words": [
+        {
+          "text": "Every",
+          "startMs": 66316,
+          "endMs": 67105
+        },
+        {
+          "text": "word",
+          "startMs": 67105,
+          "endMs": 67500
+        },
+        {
+          "text": "is",
+          "startMs": 67500,
+          "endMs": 67895
+        },
+        {
+          "text": "yours",
+          "startMs": 67895,
+          "endMs": 68289
+        },
+        {
+          "text": "and",
+          "startMs": 68289,
+          "endMs": 68684
+        },
+        {
+          "text": "mine",
+          "startMs": 68684,
+          "endMs": 69474
+        }
+      ]
+    }
+  ]
+}
