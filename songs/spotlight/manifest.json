@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "id": "spotlight",
+  "title": "Spotlight",
+  "artist": "ABN Asia",
+  "language": "en",
+  "bpm": 96,
+  "key": "C",
+  "durationMs": 61400,
+  "difficulty": 2,
+  "sections": [
+    {
+      "name": "intro",
+      "startMs": 0,
+      "endMs": 5000
+    },
+    {
+      "name": "verse1",
+      "startMs": 5000,
+      "endMs": 15000
+    },
+    {
+      "name": "chorus1",
+      "startMs": 15000,
+      "endMs": 25000
+    },
+    {
+      "name": "verse2",
+      "startMs": 25000,
+      "endMs": 35000
+    },
+    {
+      "name": "chorus2",
+      "startMs": 35000,
+      "endMs": 45000
+    },
+    {
+      "name": "chorus3",
+      "startMs": 45000,
+      "endMs": 55000
+    },
+    {
+      "name": "outro",
+      "startMs": 55000,
+      "endMs": 60000
+    }
+  ],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "melody": "melody.json",
+    "lyrics": "lyrics.json",
+    "cover": "cover.png"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "ABN Asia"
+    },
+    {
+      "role": "lyrics",
+      "name": "ABN Asia"
+    }
+  ],
+  "license": {
+    "type": "owned",
+    "note": "Original ABN Asia composition and recording"
+  }
+}

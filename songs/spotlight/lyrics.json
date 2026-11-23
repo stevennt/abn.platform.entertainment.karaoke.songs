@@ -1,0 +1,800 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 5000,
+      "endMs": 7500,
+      "singer": "solo",
+      "text": "Step into the light",
+      "words": [
+        {
+          "text": "Step",
+          "startMs": 5000,
+          "endMs": 5312
+        },
+        {
+          "text": "into",
+          "startMs": 5312,
+          "endMs": 6250
+        },
+        {
+          "text": "the",
+          "startMs": 6250,
+          "endMs": 6875
+        },
+        {
+          "text": "light",
+          "startMs": 6875,
+          "endMs": 7500
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "startMs": 7500,
+      "endMs": 10000,
+      "singer": "solo",
+      "text": "Feel the city breathe",
+      "words": [
+        {
+          "text": "Feel",
+          "startMs": 7500,
+          "endMs": 7812
+        },
+        {
+          "text": "the",
+          "startMs": 7812,
+          "endMs": 8125
+        },
+        {
+          "text": "city",
+          "startMs": 8125,
+          "endMs": 9375
+        },
+        {
+          "text": "breathe",
+          "startMs": 9375,
+          "endMs": 10000
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "startMs": 10000,
+      "endMs": 12500,
+      "singer": "solo",
+      "text": "Every eye is on you now",
+      "words": [
+        {
+          "text": "Every",
+          "startMs": 10000,
+          "endMs": 10625
+        },
+        {
+          "text": "eye",
+          "startMs": 10625,
+          "endMs": 10938
+        },
+        {
+          "text": "is",
+          "startMs": 10938,
+          "endMs": 11250
+        },
+        {
+          "text": "on",
+          "startMs": 11250,
+          "endMs": 11562
+        },
+        {
+          "text": "you",
+          "startMs": 11562,
+          "endMs": 11875
+        },
+        {
+          "text": "now",
+          "startMs": 11875,
+          "endMs": 12500
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "startMs": 12500,
+      "endMs": 15000,
+      "singer": "solo",
+      "text": "You have got the thing they need",
+      "words": [
+        {
+          "text": "You",
+          "startMs": 12500,
+          "endMs": 12812
+        },
+        {
+          "text": "have",
+          "startMs": 12812,
+          "endMs": 13125
+        },
+        {
+          "text": "got",
+          "startMs": 13125,
+          "endMs": 13438
+        },
+        {
+          "text": "the",
+          "startMs": 13438,
+          "endMs": 13750
+        },
+        {
+          "text": "thing",
+          "startMs": 13750,
+          "endMs": 14062
+        },
+        {
+          "text": "they",
+          "startMs": 14062,
+          "endMs": 14375
+        },
+        {
+          "text": "need",
+          "startMs": 14375,
+          "endMs": 15000
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "startMs": 15000,
+      "endMs": 17500,
+      "singer": "solo",
+      "text": "Sing it out sing it out loud",
+      "words": [
+        {
+          "text": "Sing",
+          "startMs": 15000,
+          "endMs": 15312
+        },
+        {
+          "text": "it",
+          "startMs": 15312,
+          "endMs": 15625
+        },
+        {
+          "text": "out",
+          "startMs": 15625,
+          "endMs": 15938
+        },
+        {
+          "text": "sing",
+          "startMs": 15938,
+          "endMs": 16250
+        },
+        {
+          "text": "it",
+          "startMs": 16250,
+          "endMs": 16562
+        },
+        {
+          "text": "out",
+          "startMs": 16562,
+          "endMs": 16875
+        },
+        {
+          "text": "loud",
+          "startMs": 16875,
+          "endMs": 17500
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "startMs": 17500,
+      "endMs": 20000,
+      "singer": "solo",
+      "text": "Let them hear you in the crowd",
+      "words": [
+        {
+          "text": "Let",
+          "startMs": 17500,
+          "endMs": 17812
+        },
+        {
+          "text": "them",
+          "startMs": 17812,
+          "endMs": 18125
+        },
+        {
+          "text": "hear",
+          "startMs": 18125,
+          "endMs": 18438
+        },
+        {
+          "text": "you",
+          "startMs": 18438,
+          "endMs": 18750
+        },
+        {
+          "text": "in",
+          "startMs": 18750,
+          "endMs": 19062
+        },
+        {
+          "text": "the",
+          "startMs": 19062,
+          "endMs": 19375
+        },
+        {
+          "text": "crowd",
+          "startMs": 19375,
+          "endMs": 20000
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "startMs": 20000,
+      "endMs": 22500,
+      "singer": "solo",
+      "text": "Every word a bright burning sound",
+      "words": [
+        {
+          "text": "Every",
+          "startMs": 20000,
+          "endMs": 20625
+        },
+        {
+          "text": "word",
+          "startMs": 20625,
+          "endMs": 20938
+        },
+        {
+          "text": "a",
+          "startMs": 20938,
+          "endMs": 21250
+        },
+        {
+          "text": "bright",
+          "startMs": 21250,
+          "endMs": 21562
+        },
+        {
+          "text": "burning",
+          "startMs": 21562,
+          "endMs": 22188
+        },
+        {
+          "text": "sound",
+          "startMs": 22188,
+          "endMs": 22500
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "startMs": 22500,
+      "endMs": 25000,
+      "singer": "solo",
+      "text": "You are the light in this town",
+      "words": [
+        {
+          "text": "You",
+          "startMs": 22500,
+          "endMs": 22812
+        },
+        {
+          "text": "are",
+          "startMs": 22812,
+          "endMs": 23125
+        },
+        {
+          "text": "the",
+          "startMs": 23125,
+          "endMs": 23438
+        },
+        {
+          "text": "light",
+          "startMs": 23438,
+          "endMs": 23750
+        },
+        {
+          "text": "in",
+          "startMs": 23750,
+          "endMs": 24062
+        },
+        {
+          "text": "this",
+          "startMs": 24062,
+          "endMs": 24375
+        },
+        {
+          "text": "town",
+          "startMs": 24375,
+          "endMs": 25000
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "startMs": 25000,
+      "endMs": 27500,
+      "singer": "solo",
+      "text": "Step into the light",
+      "words": [
+        {
+          "text": "Step",
+          "startMs": 25000,
+          "endMs": 25312
+        },
+        {
+          "text": "into",
+          "startMs": 25312,
+          "endMs": 26250
+        },
+        {
+          "text": "the",
+          "startMs": 26250,
+          "endMs": 26875
+        },
+        {
+          "text": "light",
+          "startMs": 26875,
+          "endMs": 27500
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "startMs": 27500,
+      "endMs": 30000,
+      "singer": "solo",
+      "text": "Feel the city breathe",
+      "words": [
+        {
+          "text": "Feel",
+          "startMs": 27500,
+          "endMs": 27812
+        },
+        {
+          "text": "the",
+          "startMs": 27812,
+          "endMs": 28125
+        },
+        {
+          "text": "city",
+          "startMs": 28125,
+          "endMs": 29375
+        },
+        {
+          "text": "breathe",
+          "startMs": 29375,
+          "endMs": 30000
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "startMs": 30000,
+      "endMs": 32500,
+      "singer": "solo",
+      "text": "Every eye is on you now",
+      "words": [
+        {
+          "text": "Every",
+          "startMs": 30000,
+          "endMs": 30625
+        },
+        {
+          "text": "eye",
+          "startMs": 30625,
+          "endMs": 30938
+        },
+        {
+          "text": "is",
+          "startMs": 30938,
+          "endMs": 31250
+        },
+        {
+          "text": "on",
+          "startMs": 31250,
+          "endMs": 31562
+        },
+        {
+          "text": "you",
+          "startMs": 31562,
+          "endMs": 31875
+        },
+        {
+          "text": "now",
+          "startMs": 31875,
+          "endMs": 32500
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "startMs": 32500,
+      "endMs": 35000,
+      "singer": "solo",
+      "text": "You have got the thing they need",
+      "words": [
+        {
+          "text": "You",
+          "startMs": 32500,
+          "endMs": 32812
+        },
+        {
+          "text": "have",
+          "startMs": 32812,
+          "endMs": 33125
+        },
+        {
+          "text": "got",
+          "startMs": 33125,
+          "endMs": 33438
+        },
+        {
+          "text": "the",
+          "startMs": 33438,
+          "endMs": 33750
+        },
+        {
+          "text": "thing",
+          "startMs": 33750,
+          "endMs": 34062
+        },
+        {
+          "text": "they",
+          "startMs": 34062,
+          "endMs": 34375
+        },
+        {
+          "text": "need",
+          "startMs": 34375,
+          "endMs": 35000
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "startMs": 35000,
+      "endMs": 37500,
+      "singer": "solo",
+      "text": "Sing it out sing it out loud",
+      "words": [
+        {
+          "text": "Sing",
+          "startMs": 35000,
+          "endMs": 35312
+        },
+        {
+          "text": "it",
+          "startMs": 35312,
+          "endMs": 35625
+        },
+        {
+          "text": "out",
+          "startMs": 35625,
+          "endMs": 35938
+        },
+        {
+          "text": "sing",
+          "startMs": 35938,
+          "endMs": 36250
+        },
+        {
+          "text": "it",
+          "startMs": 36250,
+          "endMs": 36562
+        },
+        {
+          "text": "out",
+          "startMs": 36562,
+          "endMs": 36875
+        },
+        {
+          "text": "loud",
+          "startMs": 36875,
+          "endMs": 37500
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "startMs": 37500,
+      "endMs": 40000,
+      "singer": "solo",
+      "text": "Let them hear you in the crowd",
+      "words": [
+        {
+          "text": "Let",
+          "startMs": 37500,
+          "endMs": 37812
+        },
+        {
+          "text": "them",
+          "startMs": 37812,
+          "endMs": 38125
+        },
+        {
+          "text": "hear",
+          "startMs": 38125,
+          "endMs": 38438
+        },
+        {
+          "text": "you",
+          "startMs": 38438,
+          "endMs": 38750
+        },
+        {
+          "text": "in",
+          "startMs": 38750,
+          "endMs": 39062
+        },
+        {
+          "text": "the",
+          "startMs": 39062,
+          "endMs": 39375
+        },
+        {
+          "text": "crowd",
+          "startMs": 39375,
+          "endMs": 40000
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "startMs": 40000,
+      "endMs": 42500,
+      "singer": "solo",
+      "text": "Every word a bright burning sound",
+      "words": [
+        {
+          "text": "Every",
+          "startMs": 40000,
+          "endMs": 40625
+        },
+        {
+          "text": "word",
+          "startMs": 40625,
+          "endMs": 40938
+        },
+        {
+          "text": "a",
+          "startMs": 40938,
+          "endMs": 41250
+        },
+        {
+          "text": "bright",
+          "startMs": 41250,
+          "endMs": 41562
+        },
+        {
+          "text": "burning",
+          "startMs": 41562,
+          "endMs": 42188
+        },
+        {
+          "text": "sound",
+          "startMs": 42188,
+          "endMs": 42500
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "startMs": 42500,
+      "endMs": 45000,
+      "singer": "solo",
+      "text": "You are the light in this town",
+      "words": [
+        {
+          "text": "You",
+          "startMs": 42500,
+          "endMs": 42812
+        },
+        {
+          "text": "are",
+          "startMs": 42812,
+          "endMs": 43125
+        },
+        {
+          "text": "the",
+          "startMs": 43125,
+          "endMs": 43438
+        },
+        {
+          "text": "light",
+          "startMs": 43438,
+          "endMs": 43750
+        },
+        {
+          "text": "in",
+          "startMs": 43750,
+          "endMs": 44062
+        },
+        {
+          "text": "this",
+          "startMs": 44062,
+          "endMs": 44375
+        },
+        {
+          "text": "town",
+          "startMs": 44375,
+          "endMs": 45000
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "startMs": 45000,
+      "endMs": 47500,
+      "singer": "solo",
+      "text": "Sing it out sing it out loud",
+      "words": [
+        {
+          "text": "Sing",
+          "startMs": 45000,
+          "endMs": 45312
+        },
+        {
+          "text": "it",
+          "startMs": 45312,
+          "endMs": 45625
+        },
+        {
+          "text": "out",
+          "startMs": 45625,
+          "endMs": 45938
+        },
+        {
+          "text": "sing",
+          "startMs": 45938,
+          "endMs": 46250
+        },
+        {
+          "text": "it",
+          "startMs": 46250,
+          "endMs": 46562
+        },
+        {
+          "text": "out",
+          "startMs": 46562,
+          "endMs": 46875
+        },
+        {
+          "text": "loud",
+          "startMs": 46875,
+          "endMs": 47500
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "startMs": 47500,
+      "endMs": 50000,
+      "singer": "solo",
+      "text": "Let them hear you in the crowd",
+      "words": [
+        {
+          "text": "Let",
+          "startMs": 47500,
+          "endMs": 47812
+        },
+        {
+          "text": "them",
+          "startMs": 47812,
+          "endMs": 48125
+        },
+        {
+          "text": "hear",
+          "startMs": 48125,
+          "endMs": 48438
+        },
+        {
+          "text": "you",
+          "startMs": 48438,
+          "endMs": 48750
+        },
+        {
+          "text": "in",
+          "startMs": 48750,
+          "endMs": 49062
+        },
+        {
+          "text": "the",
+          "startMs": 49062,
+          "endMs": 49375
+        },
+        {
+          "text": "crowd",
+          "startMs": 49375,
+          "endMs": 50000
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "startMs": 50000,
+      "endMs": 52500,
+      "singer": "solo",
+      "text": "Every word a bright burning sound",
+      "words": [
+        {
+          "text": "Every",
+          "startMs": 50000,
+          "endMs": 50625
+        },
+        {
+          "text": "word",
+          "startMs": 50625,
+          "endMs": 50938
+        },
+        {
+          "text": "a",
+          "startMs": 50938,
+          "endMs": 51250
+        },
+        {
+          "text": "bright",
+          "startMs": 51250,
+          "endMs": 51562
+        },
+        {
+          "text": "burning",
+          "startMs": 51562,
+          "endMs": 52188
+        },
+        {
+          "text": "sound",
+          "startMs": 52188,
+          "endMs": 52500
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "startMs": 52500,
+      "endMs": 55000,
+      "singer": "solo",
+      "text": "You are the light in this town",
+      "words": [
+        {
+          "text": "You",
+          "startMs": 52500,
+          "endMs": 52812
+        },
+        {
+          "text": "are",
+          "startMs": 52812,
+          "endMs": 53125
+        },
+        {
+          "text": "the",
+          "startMs": 53125,
+          "endMs": 53438
+        },
+        {
+          "text": "light",
+          "startMs": 53438,
+          "endMs": 53750
+        },
+        {
+          "text": "in",
+          "startMs": 53750,
+          "endMs": 54062
+        },
+        {
+          "text": "this",
+          "startMs": 54062,
+          "endMs": 54375
+        },
+        {
+          "text": "town",
+          "startMs": 54375,
+          "endMs": 55000
+        }
+      ]
+    }
+  ]
+}

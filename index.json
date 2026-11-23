@@ -1,5 +1,50 @@
 {
   "format": 1,
   "updated": "2026-11-23",
-  "songs": []
+  "songs": [
+    {
+      "id": "spotlight",
+      "title": "Spotlight",
+      "artist": "ABN Asia",
+      "language": "en",
+      "durationMs": 61400,
+      "bpm": 96,
+      "key": "C",
+      "difficulty": 2,
+      "mode": "full",
+      "assets": {
+        "backing": {
+          "path": "songs/spotlight/audio/backing.m4a",
+          "sha256": "688115bc442b521101c60d2c5f91a4d8da7ebdfeb8fcb18e2ec972926126ea0f",
+          "bytes": 747565
+        },
+        "lyrics": {
+          "path": "songs/spotlight/lyrics.json",
+          "sha256": "39094d355027f9a399cbdefee7c8d192b0ff13bf6bfe53b0e71548be35e156dd",
+          "bytes": 15698
+        },
+        "melody": {
+          "path": "songs/spotlight/melody.json",
+          "sha256": "98d98e5898694c4773dd07f4217c89aaccc53a2e41efd795ddf9e63b097eb5d5",
+          "bytes": 15217
+        },
+        "cover": {
+          "path": "songs/spotlight/cover.png",
+          "sha256": "9a1b589dc682822e097d217ff748958e2248ac98cd7fbd732372fb7530443a4d",
+          "bytes": 22259
+        }
+      },
+      "pack": {
+        "path": "packs/spotlight-c5489105.zip",
+        "sha256": "c548910548f8866d3e93ae8eaa1367c313f320ac56e016094a907bcc69baed8f",
+        "bytes": 760467
+      },
+      "licence": {
+        "type": "owned",
+        "note": "Original ABN Asia composition and recording"
+      },
+      "private": true,
+      "updated": "2026-11-23"
+    }
+  ]
 }
