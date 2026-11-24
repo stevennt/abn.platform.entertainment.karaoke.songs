@@ -1,0 +1,76 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 60000,
+      "endMs": 60420,
+      "text": "Should auld acquaintance be forgot"
+    },
+    {
+      "index": 1,
+      "startMs": 60500,
+      "endMs": 60920,
+      "text": "And never brought to mind"
+    },
+    {
+      "index": 2,
+      "startMs": 61000,
+      "endMs": 61420,
+      "text": "Should auld acquaintance be forgot"
+    },
+    {
+      "index": 3,
+      "startMs": 61500,
+      "endMs": 149920,
+      "text": "And auld lang syne"
+    },
+    {
+      "index": 4,
+      "startMs": 150000,
+      "endMs": 150420,
+      "text": "For auld lang syne, my dear"
+    },
+    {
+      "index": 5,
+      "startMs": 150500,
+      "endMs": 150920,
+      "text": "For auld lang syne"
+    },
+    {
+      "index": 6,
+      "startMs": 151000,
+      "endMs": 151420,
+      "text": "We'll tak a cup o kindness yet"
+    },
+    {
+      "index": 7,
+      "startMs": 151500,
+      "endMs": 179920,
+      "text": "For auld lang syne"
+    },
+    {
+      "index": 8,
+      "startMs": 180000,
+      "endMs": 180420,
+      "text": "And there's a hand my trusty friend"
+    },
+    {
+      "index": 9,
+      "startMs": 180500,
+      "endMs": 180920,
+      "text": "And gie's a hand o thine"
+    },
+    {
+      "index": 10,
+      "startMs": 181000,
+      "endMs": 181420,
+      "text": "We'll tak a right gude willie waught"
+    },
+    {
+      "index": 11,
+      "startMs": 181500,
+      "endMs": 182962,
+      "text": "For auld lang syne"
+    }
+  ]
+}

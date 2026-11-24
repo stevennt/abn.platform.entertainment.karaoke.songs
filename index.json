@@ -42,6 +42,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "auld-lang-syne",
+      "title": "Auld Lang Syne",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 182962,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/auld-lang-syne/audio/backing.m4a",
+          "sha256": "ccca84c7c81fa07b92a4d94b77b7912ec2989a91160fd8f24552b913d433cfcd",
+          "bytes": 2981340
+        },
+        "lyrics": {
+          "path": "songs/auld-lang-syne/lyrics.json",
+          "sha256": "6cc922b961e71b150a3c2611195932a1cc7a1deadaade9d400bc3e3a160a56c4",
+          "bytes": 1484
+        },
+        "cover": {
+          "path": "songs/auld-lang-syne/cover.webp",
+          "sha256": "65c9fc58d247756152cfc9a3677d81ff2b4cac3ddede8c91812f120852b5fec7",
+          "bytes": 57196
+        }
+      },
+      "pack": {
+        "path": "packs/auld-lang-syne-2b6a604b.zip",
+        "sha256": "2b6a604b442ce5bae12ade225b2db34d518f8e5b84411827b11ae2696ee50d98",
+        "bytes": 2889669
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words by Robert Burns (1788), traditional Scottish air; public domain. Recording: Composition: SSgt Tim Davis and SrA David Duneman, traditional; Mixing and Mastering: SSgt Tim Davis; Performance: United States Air Force Band of Mid-America, Starlifter and Roots in Blue, Public domain (https://commons.wikimedia.org/wiki/File%3AAuld_Land_Syne_%282020%29_-_Starlifter_and_Roots_in_Blue_-_United_States_Air_Force_Band_of_Mid-America.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement and performance by the United States Air Force Band of Mid-America (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "battle-hymn",
       "title": "The Battle Hymn of the Republic",
       "artist": "Traditional",
