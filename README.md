@@ -84,6 +84,44 @@ is not installed, or a missing cover source. It prints `REFUSE <id>: <why>` and
 carries on to the next row; the first *hard* failure (a step that ran and died)
 stops the run with `FAILED <id>: <step>`.
 
+### Sourcing from a public-domain recording
+
+A queue row with `auto` in the `backing` column builds its three inputs from a
+recording on Wikimedia Commons, described by `songs/sources/<id>.json`:
+
+```json
+{
+  "id": "shenandoah",
+  "title": "Shenandoah",
+  "artist": "Traditional",
+  "commons_title": "File:Shenandoah (2017) - Singing Sergeants - United States Air Force Band.mp3",
+  "composition": "traditional American folk song; lyrics public domain",
+  "credit": "performance by the US Air Force Band (a US Government work)",
+  "lyrics": ["Oh Shenandoah, I long to hear you", "..."]
+}
+```
+
+`tools/kara/prepare.py` then:
+
+1. reads the file's licence from Commons and **refuses anything that is not
+   public domain, CC0 or CC-BY** — before the expensive work, not after;
+2. downloads it and converts to 44.1 kHz mono;
+3. separates the vocal with `demucs` (the backing must not carry the singer);
+4. transcribes the vocal with Whisper for **timings only** — the words come from
+   the spec, never from the transcript;
+5. spreads the real lyric lines across the transcribed segments in proportion to
+   their length, so a line cannot land in an instrumental gap;
+6. draws a deterministic cover from the song id, so every song gets a different
+   one without shipping artwork.
+
+`prepare.py` caches each stage in `.work/src/<id>/`, so a run that dies at
+package time resumes at package time. The licence check, the download and the
+Whisper pass are all skipped when their output already exists.
+
+Find a recording with `tools/kara/commons.py "<title>"`, which prints candidates
+with their licence and size. Choose one whose **recording** is free, not merely
+one whose composition is old — a 1911 song in a 2019 recording is not free.
+
 ## Adding a song
 
 ```bash

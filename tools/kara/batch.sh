@@ -77,6 +77,8 @@ allowed_licence() {
   esac
 }
 
+PYTHON=${PYTHON:-/Users/thanhson/Workspace/abnvirtualenv/bin/python}
+
 have_ytdlp() {
   command -v yt-dlp >/dev/null 2>&1 ||
     [ -x "$HOME/Workspace/abnvirtualenv/bin/yt-dlp" ]
@@ -84,12 +86,17 @@ have_ytdlp() {
 
 # The loop reads a file, not a pipe: with `tail | while` it would run in a
 # subshell, where `exit 1` could not stop the batch.
+# The queue is CSV, and a title may contain a comma ("Swing Low, Sweet
+# Chariot"), so the fields are split by a real CSV parser and re-joined with a
+# unit separator that no title contains. `IFS=, read` alone would turn that row
+# into nine fields and shift every column after it.
 rows=$(mktemp "${TMPDIR:-/tmp}/kara-queue.XXXXXX")
-tail -n +2 "$QUEUE" > "$rows"
+"$PYTHON" "$ROOT/tools/kara/csv_rows.py" "$QUEUE" > "$rows"
 mkdir -p "$WORK"
 
 count=0
-while IFS=, read -r id title artist backing lyrics cover licence source; do
+separator=$(printf '\037')
+while IFS="$separator" read -r id title artist backing lyrics cover licence source; do
   [ -n "${id:-}" ] || continue
   if [ "$LIMIT" -gt 0 ] && [ "$count" -ge "$LIMIT" ]; then
     break
@@ -113,10 +120,30 @@ while IFS=, read -r id title artist backing lyrics cover licence source; do
     echo "REFUSE  $id: the queue says '$licence', the ledger says '$recorded'"
     continue
   fi
-  if [ -z "${backing:-}" ] || [ -z "${lyrics:-}" ]; then
-    echo "REFUSE  $id: the queue row needs a backing and a lyrics file"
+  if [ -z "${backing:-}" ]; then
+    echo "REFUSE  $id: the queue row needs a backing (a file, a URL, or 'auto')"
     continue
   fi
+  # `auto` means: build the three inputs from a public-domain recording, with
+  # songs/sources/<id>.json naming it. prepare.py refuses a recording whose
+  # licence is not free, before any of the expensive work starts.
+  if [ "$backing" = auto ]; then
+    if [ ! -f "$ROOT/songs/sources/$id.json" ]; then
+      echo "REFUSE  $id: backing is 'auto' but songs/sources/$id.json is missing"
+      continue
+    fi
+    echo "PREPARE $id"
+    if ! /Users/thanhson/Workspace/abnvirtualenv/bin/python "$ROOT/tools/kara/prepare.py" "$id"; then
+      echo "FAILED  $id: prepare"
+      continue
+    fi
+    . "$ROOT/.work/src/$id/vars.sh"
+    backing=$BACKING
+    lyrics=$LYRICS
+    cover=$COVER
+    source=$NOTE
+  fi
+
   case "$backing" in
     http*)
       if ! have_ytdlp; then

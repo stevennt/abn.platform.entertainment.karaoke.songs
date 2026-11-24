@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "shenandoah",
+  "title": "Shenandoah",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 131700,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: traditional American folk song, first printed in the 19th century; lyrics public domain. Recording: Composition: traditional; Arrangement: CMSgt (ret.) Floyd Werle and CMSgt (ret.) Michael Davis; Performance: United States Air Force Band, Singing Sergeants; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3AShenandoah_%282017%29_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement and performance by the United States Air Force Band (a work of the US Government, public domain)."
+  }
+}

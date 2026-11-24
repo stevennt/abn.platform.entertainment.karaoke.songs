@@ -130,6 +130,45 @@
       "updated": "2026-11-24"
     },
     {
+      "id": "shenandoah",
+      "title": "Shenandoah",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 131700,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/shenandoah/audio/backing.m4a",
+          "sha256": "aef3be8a5817bbeaea0ebe56aa3227968992ad3db78f14fb5f8761e701110907",
+          "bytes": 2146291
+        },
+        "lyrics": {
+          "path": "songs/shenandoah/lyrics.json",
+          "sha256": "c3f259642b7a457a16ef334abfb5bafb1cd9eab1cba8b917a695bf3b95e6fad7",
+          "bytes": 1566
+        },
+        "cover": {
+          "path": "songs/shenandoah/cover.webp",
+          "sha256": "9438df3ff1184e57470d6fad8506b224fce5d9c9ddd76eb89e8bd0ad48e77bb0",
+          "bytes": 54372
+        }
+      },
+      "pack": {
+        "path": "packs/shenandoah-32d1db97.zip",
+        "sha256": "32d1db9773213ed1971be07bdac140755acfca281eb552783159161e232ca193",
+        "bytes": 2164387
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional American folk song, first printed in the 19th century; lyrics public domain. Recording: Composition: traditional; Arrangement: CMSgt (ret.) Floyd Werle and CMSgt (ret.) Michael Davis; Performance: United States Air Force Band, Singing Sergeants; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3AShenandoah_%282017%29_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement and performance by the United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "spotlight",
       "title": "Spotlight",
       "artist": "ABN Asia",
