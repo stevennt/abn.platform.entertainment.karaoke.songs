@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "amazing-grace",
+  "title": "Amazing Grace",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 130400,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: traditional (John Newton, 1779, public domain). Recording: US Air Force Reserve Band, public domain, Wikimedia Commons; backing separated with demucs."
+  }
+}

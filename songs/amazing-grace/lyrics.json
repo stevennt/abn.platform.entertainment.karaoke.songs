@@ -1,0 +1,76 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 12360,
+      "text": "Amazing grace, how sweet the sound"
+    },
+    {
+      "index": 1,
+      "startMs": 12440,
+      "endMs": 24800,
+      "text": "That saved a wretch like me"
+    },
+    {
+      "index": 2,
+      "startMs": 24880,
+      "endMs": 35000,
+      "text": "I once was lost, but now am found"
+    },
+    {
+      "index": 3,
+      "startMs": 35080,
+      "endMs": 45200,
+      "text": "Was blind, but now I see"
+    },
+    {
+      "index": 4,
+      "startMs": 45280,
+      "endMs": 55600,
+      "text": "Twas grace that taught my heart to fear"
+    },
+    {
+      "index": 5,
+      "startMs": 55680,
+      "endMs": 66000,
+      "text": "And grace my fears relieved"
+    },
+    {
+      "index": 6,
+      "startMs": 66080,
+      "endMs": 76400,
+      "text": "How precious did that grace appear"
+    },
+    {
+      "index": 7,
+      "startMs": 76480,
+      "endMs": 86800,
+      "text": "The hour I first believed"
+    },
+    {
+      "index": 8,
+      "startMs": 86880,
+      "endMs": 97000,
+      "text": "When we've been there ten thousand years"
+    },
+    {
+      "index": 9,
+      "startMs": 97080,
+      "endMs": 107200,
+      "text": "Bright shining as the sun"
+    },
+    {
+      "index": 10,
+      "startMs": 107280,
+      "endMs": 117600,
+      "text": "We've no less days to sing God's praise"
+    },
+    {
+      "index": 11,
+      "startMs": 117680,
+      "endMs": 121680,
+      "text": "Than when we'd first begun"
+    }
+  ]
+}

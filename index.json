@@ -1,7 +1,46 @@
 {
   "format": 1,
-  "updated": "2026-11-24",
+  "updated": "2026-11-25",
   "songs": [
+    {
+      "id": "amazing-grace",
+      "title": "Amazing Grace",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 130400,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/amazing-grace/audio/backing.m4a",
+          "sha256": "deac61f84cd75fb776fc7370ae1ed25cfd184a7cb372b1ddefb707024c4d0fb0",
+          "bytes": 2118060
+        },
+        "lyrics": {
+          "path": "songs/amazing-grace/lyrics.json",
+          "sha256": "830f3e367dcbbea3293c013c9eac5b05b99ad73d91f35c75f89bbce37d96feb2",
+          "bytes": 1524
+        },
+        "cover": {
+          "path": "songs/amazing-grace/cover.webp",
+          "sha256": "da5b379d728cb4427fed70dcaa312f899031730250ee49a4567fef8a1fc95dde",
+          "bytes": 54632
+        }
+      },
+      "pack": {
+        "path": "packs/amazing-grace-0eacdf22.zip",
+        "sha256": "0eacdf22695b2fd98583adf1e0fb7a58b961c3e2d3c21a9fce9b557dff702dff",
+        "bytes": 2092179
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional (John Newton, 1779, public domain). Recording: US Air Force Reserve Band, public domain, Wikimedia Commons; backing separated with demucs."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
     {
       "id": "neon-night",
       "title": "Neon Night",
