@@ -1,0 +1,76 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 30000,
+      "endMs": 53920,
+      "text": "Mine eyes have seen the glory of the coming of the Lord"
+    },
+    {
+      "index": 1,
+      "startMs": 54000,
+      "endMs": 65920,
+      "text": "He is trampling out the vintage where the grapes of wrath are stored"
+    },
+    {
+      "index": 2,
+      "startMs": 66000,
+      "endMs": 69400,
+      "text": "He hath loosed the fateful lightning of His terrible swift sword"
+    },
+    {
+      "index": 3,
+      "startMs": 69480,
+      "endMs": 75840,
+      "text": "His truth is marching on"
+    },
+    {
+      "index": 4,
+      "startMs": 75920,
+      "endMs": 83120,
+      "text": "Glory, glory, hallelujah"
+    },
+    {
+      "index": 5,
+      "startMs": 83200,
+      "endMs": 96600,
+      "text": "Glory, glory, hallelujah"
+    },
+    {
+      "index": 6,
+      "startMs": 96680,
+      "endMs": 102600,
+      "text": "Glory, glory, hallelujah"
+    },
+    {
+      "index": 7,
+      "startMs": 102680,
+      "endMs": 132580,
+      "text": "His truth is marching on"
+    },
+    {
+      "index": 8,
+      "startMs": 132660,
+      "endMs": 141240,
+      "text": "I have seen Him in the watch fires of a hundred circling camps"
+    },
+    {
+      "index": 9,
+      "startMs": 141320,
+      "endMs": 171120,
+      "text": "They have builded Him an altar in the evening dews and damps"
+    },
+    {
+      "index": 10,
+      "startMs": 171200,
+      "endMs": 183800,
+      "text": "I can read His righteous sentence by the dim and flaring lamps"
+    },
+    {
+      "index": 11,
+      "startMs": 183880,
+      "endMs": 187880,
+      "text": "His day is marching on"
+    }
+  ]
+}

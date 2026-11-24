@@ -42,6 +42,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "battle-hymn",
+      "title": "The Battle Hymn of the Republic",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 277700,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/battle-hymn/audio/backing.m4a",
+          "sha256": "2f3ce62ad5e100312dce1a9cb64ac04b04d2c6312e5b1512d41921a0bdf099bd",
+          "bytes": 4507584
+        },
+        "lyrics": {
+          "path": "songs/battle-hymn/lyrics.json",
+          "sha256": "5e158d2b96cddfb1e60a316246b3d5f75af57006f3129aff81a8e53a047c9ffb",
+          "bytes": 1674
+        },
+        "cover": {
+          "path": "songs/battle-hymn/cover.webp",
+          "sha256": "fc2c5d96b4f3fc313a69918beedeaf37b9c69406be370bb8ea81b597d5e8b96e",
+          "bytes": 45366
+        }
+      },
+      "pack": {
+        "path": "packs/battle-hymn-82c44d8f.zip",
+        "sha256": "82c44d8f4d4e1a656a923877df481e211159cbf649f3df89b60acb896a972583",
+        "bytes": 4399505
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: music by William Steffe, words by Julia Ward Howe (1861); both public domain. Recording: Composition: William Steffe; Lyrics: Julia Ward Howe; Arrangement: Floyd Werle; Performance: United States Air Force Band, Singing Sergeants; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3AThe_Battle_Hymn_of_the_Republic_%281995%29_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement and performance by the United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "neon-night",
       "title": "Neon Night",
       "artist": "ABN Asia",
