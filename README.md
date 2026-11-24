@@ -57,6 +57,33 @@ that has none, and the index carries the same block so a reader never has to ope
 `private: true` on an index entry is the deliberate exception — a song kept in the repo with its
 licence recorded but held back from the catalogue. `kara publish --hold-back` sets it.
 
+## Producing songs in bulk
+
+`tools/kara/batch.sh` works a queue, one song at a time, and refuses anything that
+is not licensed:
+
+```bash
+tools/kara/batch.sh --dry-run     # say what would happen, change nothing
+tools/kara/batch.sh --limit 2     # stop after two
+tools/kara/batch.sh               # the whole queue
+```
+
+| File | What it is |
+|---|---|
+| `songs/queue.csv` | the work: `id,title,artist,backing,lyrics,cover,licence,source` |
+| `songs/licenses.csv` | the ledger: `id,licence,note`, written **before** a package is built |
+| `songs/times.csv` | one line per published song: id, wall-clock seconds, when |
+
+**Resumable.** A row whose id is already in `index.json` is `SKIP`ped, so a run
+that dies at song seven can be started again and continues at seven.
+
+**Refusing is the normal case.** Before any work the runner stops on: no ledger
+row, a licence outside the four accepted types, a queue licence that disagrees
+with the ledger, a missing backing or lyrics file, a URL backing while `yt-dlp`
+is not installed, or a missing cover source. It prints `REFUSE <id>: <why>` and
+carries on to the next row; the first *hard* failure (a step that ran and died)
+stops the run with `FAILED <id>: <step>`.
+
 ## Adding a song
 
 ```bash
