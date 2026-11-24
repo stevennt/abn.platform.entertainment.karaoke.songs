@@ -1,16 +1,32 @@
-# Karaoke song library (private)
+# Karaoke song library
 
-Package folders and one index for the ABN Asia karaoke app
-(`stevennt/abn.platform.entertainment.karaoke`). **Private** until the licences in it have been
-cleared for distribution; the app plays everything from local folders and never needs this repo to
-sing.
+Packages and one index for the ABN Asia karaoke app
+(`stevennt/abn.platform.entertainment.karaoke`). **Public since 2026-11-24**: the app lists these
+songs from the index below and downloads a pack when someone chooses it. The app also sings entirely
+from local folders, so this repo is a shelf, not a dependency.
+
+## The catalogue URL
+
+```
+https://cdn.jsdelivr.net/gh/stevennt/abn.platform.entertainment.karaoke.songs@main/index.json
+```
+
+A build points at it with:
+
+```
+flutter build apk --release \
+  --dart-define=KARAOKE_CATALOGUE_URL=https://cdn.jsdelivr.net/gh/stevennt/abn.platform.entertainment.karaoke.songs@main/index.json
+```
+
+jsDelivr serves files up to **20 MB**. A pack larger than that lives in Cloudflare R2 and its index
+entry points at the R2 URL; the `pack.bytes` figure says which.
 
 ## Layout
 
 ```
 index.json          every song the app can list: id, title, artist, language,
                     durationMs, bpm, key, difficulty, mode, assets (path +
-                    sha256 + bytes), licence, private, updated
+                    sha256 + bytes), pack, licence, private, updated
 songs/<id>/         one package, exactly as docs/SONG-FORMAT.md defines it
   manifest.json
   lyrics.json
@@ -19,37 +35,52 @@ songs/<id>/         one package, exactly as docs/SONG-FORMAT.md defines it
   CREDITS.txt
   audio/backing.m4a
   audio/guide.m4a?  guide vocal, when the source has one
+packs/              deterministic zips: <id>-<sha8>.zip
 ```
 
 The folder name, `manifest.id` and the index entry's `id` are the same string.
 
 ## Licence policy
 
-Every manifest carries `license: {type, note}`. Accepted types are the app's own list:
-`owned`, `public-domain`, `cc-by`, `user-import`. `note` says where the file came from and who to
-credit. A song with no recorded licence does not belong in this repo.
+**Every song carries a licence, and the index repeats it.** Accepted types are the app's own list:
 
-`private: true` in the index means the entry is for our own testing and must not be published to
-the app's catalogue until a human has checked it.
+| type | meaning |
+|---|---|
+| `owned` | composed and recorded by ABN Asia, or assigned to it in writing |
+| `public-domain` | the composition is out of copyright **and** the recording is ours |
+| `cc-by` | Creative Commons Attribution, with the attribution in `CREDITS.txt` |
+| `user-import` | someone's own recording, added through the app |
 
-## How songs get here
+A song with no recorded licence **does not belong in this repo**. `kara publish` refuses a package
+that has none, and the index carries the same block so a reader never has to open the zip.
 
-The `kara` CLI in the app repo writes and validates packages, then publishes them:
+`private: true` on an index entry is the deliberate exception — a song kept in the repo with its
+licence recorded but held back from the catalogue. `kara publish --hold-back` sets it.
 
-```
+## Adding a song
+
+```bash
+# 1. build the package (audio, lyrics, timings, cover, manifest with licence)
 cd ~/Workspace/abn.platform.entertainment.karaoke/app
-dart run tool/kara/main.dart new <id> --title "…" --artist "…" --licence <type>
-dart run tool/kara/main.dart verify ~/.kara/work/<id>
-# … audio, lyrics, cover …
-dart run tool/kara/main.dart report ~/.kara/work
+dart run tool/kara/main.dart new  ~/Work/neon-night-2 --title "…" --artist "ABN Asia"
+dart run tool/kara/main.dart audio ~/Work/neon-night-2 backing.wav
+dart run tool/kara/main.dart lyrics ~/Work/neon-night-2 lyrics.json
+dart run tool/kara/main.dart whisper ~/Work/neon-night-2 take.wav
+dart run tool/kara/main.dart package ~/Work/neon-night-2
+
+# 2. publish it: builds the deterministic zip, updates index.json, pushes this repo
+dart run tool/kara/main.dart publish ~/Work/neon-night-2
 ```
 
-Validation is the app's own loader, so a package that passes `verify` is one the app can open.
-Publishing (issue #36) adds the entry to `index.json` and pushes.
+`publish` refuses a package whose licence is missing or whose assets do not verify, and it never
+rewrites an entry whose hash has not changed.
 
-## Status
+## What is in here now
 
-- 2026-11-23 — repo created empty by issue #32.
-- 2026-11-23 — the three ABN Asia originals published by issue #37: `spotlight`,
-  `one-more-song`, `neon-night`. All `owned`, all `full` (with melodies), all `private: true` until
-  a human clears them for the app catalogue.
+| id | title | licence |
+|---|---|---|
+| `neon-night` | Neon Night | owned — original ABN Asia composition and recording |
+| `one-more-song` | One More Song | owned — original ABN Asia composition and recording |
+| `spotlight` | Spotlight | owned — original ABN Asia composition and recording |
+
+Audio: every backing track is an ABN Asia recording. No third-party master is distributed here.

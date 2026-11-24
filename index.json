@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updated": "2026-11-23",
+  "updated": "2026-11-24",
   "songs": [
     {
       "id": "neon-night",
@@ -43,8 +43,8 @@
         "type": "owned",
         "note": "Original ABN Asia composition and recording"
       },
-      "private": true,
-      "updated": "2026-11-23"
+      "private": false,
+      "updated": "2026-11-24"
     },
     {
       "id": "one-more-song",
@@ -87,8 +87,8 @@
         "type": "owned",
         "note": "Original ABN Asia composition and recording"
       },
-      "private": true,
-      "updated": "2026-11-23"
+      "private": false,
+      "updated": "2026-11-24"
     },
     {
       "id": "spotlight",
@@ -131,8 +131,8 @@
         "type": "owned",
         "note": "Original ABN Asia composition and recording"
       },
-      "private": true,
-      "updated": "2026-11-23"
+      "private": false,
+      "updated": "2026-11-24"
     }
   ]
 }
