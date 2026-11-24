@@ -102,6 +102,7 @@ while IFS="$separator" read -r id title artist backing lyrics cover licence sour
     break
   fi
 
+  prep_seconds=0
   if published "$id"; then
     echo "SKIP    $id: already in the index"
     continue
@@ -133,10 +134,12 @@ while IFS="$separator" read -r id title artist backing lyrics cover licence sour
       continue
     fi
     echo "PREPARE $id"
-    if ! /Users/thanhson/Workspace/abnvirtualenv/bin/python "$ROOT/tools/kara/prepare.py" "$id"; then
+    prep_started=$(date +%s)
+    if ! "$PYTHON" "$ROOT/tools/kara/prepare.py" "$id"; then
       echo "FAILED  $id: prepare"
       continue
     fi
+    prep_seconds=$(( $(date +%s) - prep_started ))
     . "$ROOT/.work/src/$id/vars.sh"
     backing=$BACKING
     lyrics=$LYRICS
@@ -166,6 +169,7 @@ while IFS="$separator" read -r id title artist backing lyrics cover licence sour
   fi
 
   echo "=== $id: $title — $artist (licence $recorded)"
+  prep_seconds=${prep_seconds:-0}
   song="$WORK/$id"
   rm -rf "$song"
   started=$(date +%s)
@@ -201,8 +205,10 @@ while IFS="$separator" read -r id title artist backing lyrics cover licence sour
     { echo "FAILED  $id: publish"; rm -f "$rows"; exit 1; }
   step publish
 
-  total=$(( $(date +%s) - started ))
-  printf '%s,%s,%s\n' "$id" "$total" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$ROOT/songs/times.csv"
+  build=$(( $(date +%s) - started ))
+  total=$(( build + prep_seconds ))
+  printf '%s,%s,%s,%s,%s\n' "$id" "$prep_seconds" "$build" "$total" \
+    "$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$ROOT/songs/times.csv"
   echo "PUBLISHED $id in ${total}s"
   count=$((count + 1))
 done < "$rows"

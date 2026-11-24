@@ -1,0 +1,76 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 60000,
+      "endMs": 65920,
+      "text": "What shall we do with a drunken sailor"
+    },
+    {
+      "index": 1,
+      "startMs": 66000,
+      "endMs": 71920,
+      "text": "What shall we do with a drunken sailor"
+    },
+    {
+      "index": 2,
+      "startMs": 72000,
+      "endMs": 75920,
+      "text": "What shall we do with a drunken sailor"
+    },
+    {
+      "index": 3,
+      "startMs": 76000,
+      "endMs": 79920,
+      "text": "Early in the morning"
+    },
+    {
+      "index": 4,
+      "startMs": 80000,
+      "endMs": 85920,
+      "text": "Hooray and up she rises"
+    },
+    {
+      "index": 5,
+      "startMs": 86000,
+      "endMs": 91920,
+      "text": "Hooray and up she rises"
+    },
+    {
+      "index": 6,
+      "startMs": 92000,
+      "endMs": 96420,
+      "text": "Hooray and up she rises"
+    },
+    {
+      "index": 7,
+      "startMs": 96500,
+      "endMs": 130920,
+      "text": "Early in the morning"
+    },
+    {
+      "index": 8,
+      "startMs": 131000,
+      "endMs": 135920,
+      "text": "Shave his belly with a rusty razor"
+    },
+    {
+      "index": 9,
+      "startMs": 136000,
+      "endMs": 140920,
+      "text": "Shave his belly with a rusty razor"
+    },
+    {
+      "index": 10,
+      "startMs": 141000,
+      "endMs": 144920,
+      "text": "Shave his belly with a rusty razor"
+    },
+    {
+      "index": 11,
+      "startMs": 145000,
+      "endMs": 149000,
+      "text": "Early in the morning"
+    }
+  ]
+}

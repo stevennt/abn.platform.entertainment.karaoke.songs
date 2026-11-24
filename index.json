@@ -120,6 +120,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "drunken-sailor",
+      "title": "Drunken Sailor",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 162900,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/drunken-sailor/audio/backing.m4a",
+          "sha256": "352fa6415023171c7d2a88c15c9bbd95260aa69da78914a5bc6230958e8f04d5",
+          "bytes": 2659642
+        },
+        "lyrics": {
+          "path": "songs/drunken-sailor/lyrics.json",
+          "sha256": "dc2e5bc91116d381a41ec1664f2b696bdd8d6d11fec0375558a59d128bdad831",
+          "bytes": 1504
+        },
+        "cover": {
+          "path": "songs/drunken-sailor/cover.webp",
+          "sha256": "391b32c258a315d666fb327a9a55a845c6418f64b6d106f5ee870bc1581014ae",
+          "bytes": 42704
+        }
+      },
+      "pack": {
+        "path": "packs/drunken-sailor-7b92f9bf.zip",
+        "sha256": "7b92f9bf5975c64e3007d0774c59c0fcc213aa771ba300efac34aa36bb17b4ed",
+        "bytes": 2642353
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional sea shanty, 19th century; public domain. Recording: USNA Midshipmen Glee Club, Public domain (https://commons.wikimedia.org/wiki/File%3A%22Drunken_Sailor%22%2C_performed_by_the_Midshipmen_Glee_Club_%281977%29.ogg); backing separated with demucs, lyric timings derived from the recording. Performance by the United States Naval Academy Midshipmen Glee Club (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "neon-night",
       "title": "Neon Night",
       "artist": "ABN Asia",

@@ -99,9 +99,12 @@ def record(spec):
     }
 
 
-def run(argv, what):
+def run(argv, what, timeout=None):
     started = time.time()
-    done = subprocess.run(argv, capture_output=True, text=True)
+    try:
+        done = subprocess.run(argv, capture_output=True, text=True, timeout=timeout)
+    except subprocess.TimeoutExpired:
+        raise SystemExit(f"{what} ran past {timeout}s and was stopped")
     if done.returncode != 0:
         sys.stderr.write(done.stderr[-1500:])
         raise SystemExit(f"{what} failed ({done.returncode})")
@@ -289,9 +292,9 @@ def main():
             run(
                 ["/opt/homebrew/bin/whisper", vocals, "--model", spec.get("model", "small.en"),
                  "--language", spec.get("language", "en"), "--output_format", "srt",
-                 "--output_dir", out, "--verbose", "False",
-                 "--condition_on_previous_text", "False"],
+                 "--output_dir", out, "--verbose", "False"],
                 "whisper",
+                timeout=max(300, int(audio_duration_ms(vocals) / 1000 * 3)),
             ),
             1,
         )
