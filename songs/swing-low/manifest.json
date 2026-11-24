@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "swing-low",
+  "title": "Swing Low, Sweet Chariot",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 197642,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: spiritual by Wallace Willis, 19th century; public domain. Recording: Composition: traditional, MSgt Jerome Oddo; Performance: United States Air Force Academy Band, Wild Blue Country; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3ASwing_Low_-_Wild_Blue_Country_-_United_States_Air_Force_Academy_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement by MSgt Jerome Oddo; performance by the United States Air Force Academy Band (a work of the US Government, public domain)."
+  }
+}

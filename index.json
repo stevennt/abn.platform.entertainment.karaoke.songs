@@ -250,6 +250,45 @@
       },
       "private": false,
       "updated": "2026-11-24"
+    },
+    {
+      "id": "swing-low",
+      "title": "Swing Low, Sweet Chariot",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 197642,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/swing-low/audio/backing.m4a",
+          "sha256": "2307e771ead0aaf752d15dd641b013bb8151c16dc3ab97d5be98d6ec85839b63",
+          "bytes": 3242728
+        },
+        "lyrics": {
+          "path": "songs/swing-low/lyrics.json",
+          "sha256": "8fa6f583a05d2dbe67524d9684ecd906123c603ad375b762ef856d9b2f95efdb",
+          "bytes": 1489
+        },
+        "cover": {
+          "path": "songs/swing-low/cover.webp",
+          "sha256": "fa61928a52765403e02b734be82b28ec2a46e5da08eb4afac91965f05fb1092c",
+          "bytes": 48646
+        }
+      },
+      "pack": {
+        "path": "packs/swing-low-60730fc1.zip",
+        "sha256": "60730fc177ce746c344bc43593641148b2e3729ddcb6f26451c442b406de0dc1",
+        "bytes": 3132413
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: spiritual by Wallace Willis, 19th century; public domain. Recording: Composition: traditional, MSgt Jerome Oddo; Performance: United States Air Force Academy Band, Wild Blue Country; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3ASwing_Low_-_Wild_Blue_Country_-_United_States_Air_Force_Academy_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement by MSgt Jerome Oddo; performance by the United States Air Force Academy Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
     }
   ]
 }
