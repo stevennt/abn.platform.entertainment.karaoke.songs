@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 18500,
+      "text": "Way down upon the Swanee River",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 18580,
+      "endMs": 59920,
+      "text": "Far, far away",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 60000,
+      "endMs": 66920,
+      "text": "There's where my heart is turning ever",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 67000,
+      "endMs": 74920,
+      "text": "There's where the old folks stay",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 75000,
+      "endMs": 88920,
+      "text": "All up and down the whole creation",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 89000,
+      "endMs": 101920,
+      "text": "Sadly I roam",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 102000,
+      "endMs": 108920,
+      "text": "Still longing for the old plantation",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 109000,
+      "endMs": 113000,
+      "text": "And for the old folks at home",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

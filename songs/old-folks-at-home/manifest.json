@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "old-folks-at-home",
+  "title": "Old Folks at Home",
+  "artist": "Stephen Foster",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 242000,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Stephen Foster"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: words and music by Stephen Foster (1851); public domain. Recording: Foster - Schumann-Heink, Public domain (https://commons.wikimedia.org/wiki/File%3AFoster_-_Schumann-Heink_-_Old_Folks_at_Home_%28rec._1918%29.ogg); backing separated with demucs, lyric timings derived from the recording. Performed by Ernestine Schumann-Heink (1918); this recording is public domain on Wikimedia Commons. One couplet of Foster's original chorus is omitted: it uses a term this catalogue will not print."
+  }
+}
