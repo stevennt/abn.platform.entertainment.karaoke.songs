@@ -354,6 +354,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "kumbaya",
+      "title": "Kumbaya",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 101200,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/kumbaya/audio/backing.m4a",
+          "sha256": "bedf2faf6e06d6f2c4f01956a50e83090bdbc89bac56d72cb8fbc310ff063f67",
+          "bytes": 1649373
+        },
+        "lyrics": {
+          "path": "songs/kumbaya/lyrics.json",
+          "sha256": "16ccf6dcbf6640958dd92e0b4acac46bbd860db9d0ab4b31a5cde1b5fb6ed4f4",
+          "bytes": 970
+        },
+        "cover": {
+          "path": "songs/kumbaya/cover.webp",
+          "sha256": "991ddbbf864cc57307c91bcbd573f7553b5e5ffbd90a9cf8dcaca8ca56825318",
+          "bytes": 42950
+        }
+      },
+      "pack": {
+        "path": "packs/kumbaya-ee48fae7.zip",
+        "sha256": "ee48fae724eacb429dfb1f948679585a1b8bd3a7b3f0ffa8bcf5cb1a53b21150",
+        "bytes": 1615190
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional African-American spiritual, first collected in the 1920s; public domain. Recording: Song author unknown. Sung by H Wylie. Recorded by Robert Winslow Gordon for the Library of Congress, Public domain (https://commons.wikimedia.org/wiki/File%3AKumbaya_-_earliest_known_recording_%281926%29.flac); backing separated with demucs, lyric timings derived from the recording. Earliest known recording, sung by H. Wylie (1926), public domain."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "my-bonnie",
       "title": "My Bonnie Lies Over the Ocean",
       "artist": "Traditional",

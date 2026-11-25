@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "kumbaya",
+  "title": "Kumbaya",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 101200,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: traditional African-American spiritual, first collected in the 1920s; public domain. Recording: Song author unknown. Sung by H Wylie. Recorded by Robert Winslow Gordon for the Library of Congress, Public domain (https://commons.wikimedia.org/wiki/File%3AKumbaya_-_earliest_known_recording_%281926%29.flac); backing separated with demucs, lyric timings derived from the recording. Earliest known recording, sung by H. Wylie (1926), public domain."
+  }
+}

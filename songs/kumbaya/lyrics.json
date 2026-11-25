@@ -1,0 +1,52 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 5400,
+      "text": "Kumbaya, my Lord, kumbaya"
+    },
+    {
+      "index": 1,
+      "startMs": 5480,
+      "endMs": 10880,
+      "text": "Kumbaya, my Lord, kumbaya"
+    },
+    {
+      "index": 2,
+      "startMs": 10960,
+      "endMs": 76360,
+      "text": "Kumbaya, my Lord, kumbaya"
+    },
+    {
+      "index": 3,
+      "startMs": 76440,
+      "endMs": 81360,
+      "text": "Oh Lord, kumbaya"
+    },
+    {
+      "index": 4,
+      "startMs": 81440,
+      "endMs": 86360,
+      "text": "Someone's singing, Lord, kumbaya"
+    },
+    {
+      "index": 5,
+      "startMs": 86440,
+      "endMs": 91360,
+      "text": "Someone's singing, Lord, kumbaya"
+    },
+    {
+      "index": 6,
+      "startMs": 91440,
+      "endMs": 96360,
+      "text": "Someone's singing, Lord, kumbaya"
+    },
+    {
+      "index": 7,
+      "startMs": 96440,
+      "endMs": 100440,
+      "text": "Oh Lord, kumbaya"
+    }
+  ]
+}
