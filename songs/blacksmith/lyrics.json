@@ -1,0 +1,37 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 29920,
+      "text": "A blacksmith courted me nine months and better",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 30000,
+      "endMs": 37200,
+      "text": "He fairly won my heart, wrote me a letter",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 37280,
+      "endMs": 41120,
+      "text": "With his hammer in his hand he looked so clever",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 41200,
+      "endMs": 45200,
+      "text": "And if I were with my love I would live for ever",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

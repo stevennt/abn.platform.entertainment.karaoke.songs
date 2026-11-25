@@ -276,6 +276,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "blacksmith",
+      "title": "The Blacksmith",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 274500,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/blacksmith/audio/backing.m4a",
+          "sha256": "b758a9ae0d7d0e2fbe206639093ccfd243415b0a3d2021008f1e449e746a4c9c",
+          "bytes": 4494017
+        },
+        "lyrics": {
+          "path": "songs/blacksmith/lyrics.json",
+          "sha256": "0d42b8673288d70a53131ab5facdfb4cec31bf648c78210f3460d965618f72c4",
+          "bytes": 761
+        },
+        "cover": {
+          "path": "songs/blacksmith/cover.webp",
+          "sha256": "67d601d9aa78a9a8a63973fee2a90254e0d69f931cae8a141ee2216ccf5fcc52",
+          "bytes": 42828
+        }
+      },
+      "pack": {
+        "path": "packs/blacksmith-da5aa618.zip",
+        "sha256": "da5aa618e8bb48561c3465ad18baf8b73a44f1635205cce2a8e57bc2ffef2e54",
+        "bytes": 4329980
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional English folk song; public domain. Recording: Composition: traditional; Performance: United States Air Force Band, Celtic Aire; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3ABlacksmith_-_Celtic_Aire_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Performance by Celtic Aire, United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "camptown-races",
       "title": "Camptown Races",
       "artist": "Stephen Foster",
