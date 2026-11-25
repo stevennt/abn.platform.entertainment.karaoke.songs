@@ -42,6 +42,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "america-the-beautiful",
+      "title": "America the Beautiful",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 141500,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/america-the-beautiful/audio/backing.m4a",
+          "sha256": "342d968ddfd9ce3ee46bdf8c9afad9c3903f669ab9bb0d574cb10aa2e50a664f",
+          "bytes": 2296620
+        },
+        "lyrics": {
+          "path": "songs/america-the-beautiful/lyrics.json",
+          "sha256": "d10b48d4b718bd980060b3d42b6d86db881385b0cd58ea814080cbed7a8ede87",
+          "bytes": 979
+        },
+        "cover": {
+          "path": "songs/america-the-beautiful/cover.webp",
+          "sha256": "5d0c210cb23f0f1ab7999b6b4ab6cc41a162f94ac8f31d7963d0607c936b2447",
+          "bytes": 41070
+        }
+      },
+      "pack": {
+        "path": "packs/america-the-beautiful-a558af04.zip",
+        "sha256": "a558af04dfe24c05aa29376557da45964b07b2149c0a0979801e21899171465c",
+        "bytes": 2300986
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words by Katharine Lee Bates (1895), music by Samuel A. Ward (1882); both public domain. Recording: Composition: Samuel A. Ward; Lyrics: Katharine Lee Bates; Performance: United States Air Force Band, Singing Sergeants; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3AAmerica_the_Beautiful_%281995%29_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement and performance by the United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "auld-lang-syne",
       "title": "Auld Lang Syne",
       "artist": "Traditional",

@@ -1,0 +1,19 @@
+{
+  "id": "deck-the-halls",
+  "title": "Deck the Halls",
+  "artist": "Traditional",
+  "commons_title": "File:Deck the Halls - Singing Sergeants - United States Air Force Band.mp3",
+  "tint": "#A8473F",
+  "composition": "traditional Welsh melody, English words by Thomas Oliphant (1862); both public domain",
+  "credit": "Arrangement by Robert Thurston; performance by the United States Air Force Band (a work of the US Government, public domain).",
+  "lyrics": [
+    "Deck the halls with boughs of holly",
+    "Fa la la la la, la la la la",
+    "Tis the season to be jolly",
+    "Fa la la la la, la la la la",
+    "Don we now our gay apparel",
+    "Fa la la, la la la, la la la",
+    "Troll the ancient Yuletide carol",
+    "Fa la la la la, la la la la"
+  ]
+}

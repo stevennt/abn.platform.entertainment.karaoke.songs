@@ -1,0 +1,52 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 28080,
+      "text": "O beautiful for spacious skies"
+    },
+    {
+      "index": 1,
+      "startMs": 28160,
+      "endMs": 46560,
+      "text": "For amber waves of grain"
+    },
+    {
+      "index": 2,
+      "startMs": 46640,
+      "endMs": 70160,
+      "text": "For purple mountain majesties"
+    },
+    {
+      "index": 3,
+      "startMs": 70240,
+      "endMs": 82320,
+      "text": "Above the fruited plain"
+    },
+    {
+      "index": 4,
+      "startMs": 82400,
+      "endMs": 95360,
+      "text": "America, America"
+    },
+    {
+      "index": 5,
+      "startMs": 95440,
+      "endMs": 108160,
+      "text": "God shed His grace on thee"
+    },
+    {
+      "index": 6,
+      "startMs": 108240,
+      "endMs": 138160,
+      "text": "And crown thy good with brotherhood"
+    },
+    {
+      "index": 7,
+      "startMs": 138240,
+      "endMs": 141500,
+      "text": "From sea to shining sea"
+    }
+  ]
+}

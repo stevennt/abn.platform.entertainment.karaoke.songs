@@ -133,6 +133,13 @@ while IFS="$separator" read -r id title artist backing lyrics cover licence sour
       echo "REFUSE  $id: backing is 'auto' but songs/sources/$id.json is missing"
       continue
     fi
+    if [ "$DRY" = 1 ]; then
+      # Nothing is fetched, separated or transcribed on a dry run. Saying so is
+      # the point of the flag.
+      echo "WOULD   $id: $title — $artist, licence $recorded (prepare from Commons)"
+      count=$((count + 1))
+      continue
+    fi
     echo "PREPARE $id"
     prep_started=$(date +%s)
     if ! "$PYTHON" "$ROOT/tools/kara/prepare.py" "$id"; then
