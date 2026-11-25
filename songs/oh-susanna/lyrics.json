@@ -1,0 +1,64 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 13520,
+      "text": "I come from Alabama with my banjo on my knee"
+    },
+    {
+      "index": 1,
+      "startMs": 13600,
+      "endMs": 15520,
+      "text": "I'm going to Louisiana, my true love for to see"
+    },
+    {
+      "index": 2,
+      "startMs": 15600,
+      "endMs": 17520,
+      "text": "It rained all night the day I left, the weather it was dry"
+    },
+    {
+      "index": 3,
+      "startMs": 17600,
+      "endMs": 21520,
+      "text": "The sun so hot I froze to death, Susanna, don't you cry"
+    },
+    {
+      "index": 4,
+      "startMs": 21600,
+      "endMs": 23520,
+      "text": "Oh, Susanna, don't you cry for me"
+    },
+    {
+      "index": 5,
+      "startMs": 23600,
+      "endMs": 25520,
+      "text": "For I come from Alabama with my banjo on my knee"
+    },
+    {
+      "index": 6,
+      "startMs": 25600,
+      "endMs": 27520,
+      "text": "I had a dream the other night when everything was still"
+    },
+    {
+      "index": 7,
+      "startMs": 27600,
+      "endMs": 30120,
+      "text": "I thought I saw Susanna coming down the hill"
+    },
+    {
+      "index": 8,
+      "startMs": 30200,
+      "endMs": 32120,
+      "text": "The buckwheat cake was in her mouth, the tear was in her eye"
+    },
+    {
+      "index": 9,
+      "startMs": 32200,
+      "endMs": 36200,
+      "text": "Says I, I'm coming from the south, Susanna, don't you cry"
+    }
+  ]
+}

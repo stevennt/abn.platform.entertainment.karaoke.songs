@@ -203,6 +203,45 @@
       "updated": "2026-11-24"
     },
     {
+      "id": "oh-susanna",
+      "title": "Oh Susanna",
+      "artist": "Stephen Foster",
+      "language": "en",
+      "durationMs": 209700,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/oh-susanna/audio/backing.m4a",
+          "sha256": "eff8ac51eb25f84ab9ab9c11efef30f77527d5989fd0212d23b02c8858898976",
+          "bytes": 3401060
+        },
+        "lyrics": {
+          "path": "songs/oh-susanna/lyrics.json",
+          "sha256": "d3e9571ea070a763499f34ea2ec644ca2009f952fe521f8446229c2adf3d8468",
+          "bytes": 1457
+        },
+        "cover": {
+          "path": "songs/oh-susanna/cover.webp",
+          "sha256": "32c22e924b67cb4a5aeb2f198ca628735ffe6eb436c41a59f32ee1064375cadc",
+          "bytes": 57966
+        }
+      },
+      "pack": {
+        "path": "packs/oh-susanna-71d03b4a.zip",
+        "sha256": "71d03b4a0b42593bc57d994da2ba28baeafae3ec0f64ce848b4533e2b3457c5b",
+        "bytes": 3369227
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words and music by Stephen Foster (1848); public domain. Recording: Henry Burr, Peerless Quartet and Harry C. Browne, Public domain (https://commons.wikimedia.org/wiki/File%3AOh_Susanna1917.ogg); backing separated with demucs, lyric timings derived from the recording. Recording from 1917, public domain; the performance is out of copyright in every jurisdiction with a life-plus-70 term."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "one-more-song",
       "title": "One More Song",
       "artist": "ABN Asia",
