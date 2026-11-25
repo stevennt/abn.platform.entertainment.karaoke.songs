@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "over-there",
+  "title": "Over There",
+  "artist": "George M. Cohan",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 169100,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "George M. Cohan"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: words and music by George M. Cohan (1917); public domain. Recording: George M. Cohan, Public domain (https://commons.wikimedia.org/wiki/File%3AEnrico_Caruso_-_Over_There.ogg); backing separated with demucs, lyric timings derived from the recording. Performed by Enrico Caruso; this recording is public domain on Wikimedia Commons."
+  }
+}

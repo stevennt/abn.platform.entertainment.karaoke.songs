@@ -793,6 +793,45 @@
       "updated": "2026-11-24"
     },
     {
+      "id": "over-there",
+      "title": "Over There",
+      "artist": "George M. Cohan",
+      "language": "en",
+      "durationMs": 169100,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/over-there/audio/backing.m4a",
+          "sha256": "29b65bf423a6ff3c131cf049897565efcc4bb99dc30c006b68b641036cbaa2ab",
+          "bytes": 2755758
+        },
+        "lyrics": {
+          "path": "songs/over-there/lyrics.json",
+          "sha256": "b8e0d24df6273364951d25e5a130ee627a2b7a5e0ab403c9606c3c388a9f8fd9",
+          "bytes": 1359
+        },
+        "cover": {
+          "path": "songs/over-there/cover.webp",
+          "sha256": "5edae0143ea2b95b513beda7cb3a3f4a898e68b3ea95ee2c7955953bdc0986d2",
+          "bytes": 41148
+        }
+      },
+      "pack": {
+        "path": "packs/over-there-1e63e177.zip",
+        "sha256": "1e63e17745e581bba57ed07ef3ae0174d81544b7498858401d936cd50f821036",
+        "bytes": 2735324
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words and music by George M. Cohan (1917); public domain. Recording: George M. Cohan, Public domain (https://commons.wikimedia.org/wiki/File%3AEnrico_Caruso_-_Over_There.ogg); backing separated with demucs, lyric timings derived from the recording. Performed by Enrico Caruso; this recording is public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "scarborough-fair",
       "title": "Scarborough Fair",
       "artist": "Traditional",
