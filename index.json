@@ -120,6 +120,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "as-i-roved-out",
+      "title": "As I Roved Out",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 240536,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/as-i-roved-out/audio/backing.m4a",
+          "sha256": "2108e4dc6c01088191b73cbec6a1300299a41d0bf6077fda817de243a33a20db",
+          "bytes": 3948041
+        },
+        "lyrics": {
+          "path": "songs/as-i-roved-out/lyrics.json",
+          "sha256": "d01419899176e20c0990d0830f8677315b909303905598e3ffe85ed6b973b347",
+          "bytes": 1035
+        },
+        "cover": {
+          "path": "songs/as-i-roved-out/cover.webp",
+          "sha256": "0c819e7b5ccff8c2d1a3357738fcfd3ff31e0143b186ac11df0013e67444fa36",
+          "bytes": 43712
+        }
+      },
+      "pack": {
+        "path": "packs/as-i-roved-out-56d081bc.zip",
+        "sha256": "56d081bc5b370ab44d3d55f63dc634aecb05bdb13915667ce68ff0aaaf9015a0",
+        "bytes": 3840792
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional Irish song; public domain. Recording: Composition: traditional; Performance: United States Air Force Band, Celtic Aire; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3AAs_I_Roved_Out_-_Celtic_Aire_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Performance by Celtic Aire, United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "auld-lang-syne",
       "title": "Auld Lang Syne",
       "artist": "Traditional",

@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 12420,
+      "text": "As I roved out on a May morning",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 12500,
+      "endMs": 16420,
+      "text": "On a May morning right early",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 16500,
+      "endMs": 20420,
+      "text": "I met my love upon the way",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 20500,
+      "endMs": 28900,
+      "text": "And I asked her if she'd marry",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 28980,
+      "endMs": 36400,
+      "text": "And she said no, and she said no",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 36480,
+      "endMs": 40480,
+      "text": "And she said no, and she said maybe",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}
