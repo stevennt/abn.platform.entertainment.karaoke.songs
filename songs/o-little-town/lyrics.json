@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 6660,
+      "text": "O little town of Bethlehem",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 6740,
+      "endMs": 13400,
+      "text": "How still we see thee lie",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 13480,
+      "endMs": 21000,
+      "text": "Above thy deep and dreamless sleep",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 21080,
+      "endMs": 28600,
+      "text": "The silent stars go by",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 28680,
+      "endMs": 36380,
+      "text": "Yet in thy dark streets shineth",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 36460,
+      "endMs": 44160,
+      "text": "The everlasting light",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 44240,
+      "endMs": 55420,
+      "text": "The hopes and fears of all the years",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 55500,
+      "endMs": 59500,
+      "text": "Are met in thee tonight",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

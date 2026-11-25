@@ -554,6 +554,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "o-little-town",
+      "title": "O Little Town of Bethlehem",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 70400,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/o-little-town/audio/backing.m4a",
+          "sha256": "ab0cff57b4bf54fdc7e77237dbb2f0c6e6367a3d1791ee2b497c225c818fb835",
+          "bytes": 1142293
+        },
+        "lyrics": {
+          "path": "songs/o-little-town/lyrics.json",
+          "sha256": "f485da17ea5f8e8f66832876f2d55003cf567b9cd702d39cadb75fab74c2733a",
+          "bytes": 1343
+        },
+        "cover": {
+          "path": "songs/o-little-town/cover.webp",
+          "sha256": "b05a7956087fc21eff6d3b03aa82765756ffd3b2ec1b543adca62e230b2b0806",
+          "bytes": 42342
+        }
+      },
+      "pack": {
+        "path": "packs/o-little-town-021c1c2d.zip",
+        "sha256": "021c1c2d35c4e1349a3f91ca73f180e950bbd70a7b47aafc0353d092197fd557",
+        "bytes": 1166878
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words by Phillips Brooks (1868), music by Lewis Redner (1868); both public domain. Recording: Composition: Lewis Redner, Robert Thurston; Lyrics: Phillips Brooks; Performance: United States Air Force Band, Singing Sergeants; Recording: United States Air Force Band, Public domain (https://commons.wikimedia.org/wiki/File%3AO_Little_Town_of_Bethlehem_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement by Robert Thurston; performance by the United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "oh-susanna",
       "title": "Oh Susanna",
       "artist": "Stephen Foster",
