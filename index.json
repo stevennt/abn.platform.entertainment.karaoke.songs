@@ -1027,6 +1027,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "salley-gardens",
+      "title": "Down by the Salley Gardens",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 279719,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/salley-gardens/audio/backing.m4a",
+          "sha256": "5b2226bbbe421471f7c18c3422d2e723322363895d7a96ff7b5eff8e76c3395f",
+          "bytes": 4564670
+        },
+        "lyrics": {
+          "path": "songs/salley-gardens/lyrics.json",
+          "sha256": "fc0a7b331f02a92d552d397a38d4148faa962ccc095bf689e8a123b181abe93d",
+          "bytes": 1576
+        },
+        "cover": {
+          "path": "songs/salley-gardens/cover.webp",
+          "sha256": "ba4dc54caf97d7f221355e3fdbe056f06386a213390031bec54d0bd0d488390a",
+          "bytes": 42592
+        }
+      },
+      "pack": {
+        "path": "packs/salley-gardens-24b42da9.zip",
+        "sha256": "24b42da99c712847d4a471d7b8aecf9b1dae720cc2c1c7f3e3d70dd0d1ad4e1e",
+        "bytes": 4423162
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words by W. B. Yeats (1889), traditional air; public domain. Recording: Composition: traditional; Lyrics: William Butler Yeats; Performance: United States Air Force Band, Celtic Aire; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3ADown_by_the_Salley_Gardens_-_Celtic_Aire_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Performance by Celtic Aire, United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "scarborough-fair",
       "title": "Scarborough Fair",
       "artist": "Traditional",

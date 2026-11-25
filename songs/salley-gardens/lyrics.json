@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 60000,
+      "endMs": 84960,
+      "text": "Down by the salley gardens my love and I did meet",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 85040,
+      "endMs": 114960,
+      "text": "She passed the salley gardens with little snow-white feet",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 115040,
+      "endMs": 132000,
+      "text": "She bid me take love easy, as the leaves grow on the tree",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 132080,
+      "endMs": 145040,
+      "text": "But I, being young and foolish, with her would not agree",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 145120,
+      "endMs": 174080,
+      "text": "In a field by the river my love and I did stand",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 174160,
+      "endMs": 203120,
+      "text": "And on my leaning shoulder she laid her snow-white hand",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 203200,
+      "endMs": 224160,
+      "text": "She bid me take life easy, as the grass grows on the weirs",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 224240,
+      "endMs": 228240,
+      "text": "But I was young and foolish, and now am full of tears",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}
