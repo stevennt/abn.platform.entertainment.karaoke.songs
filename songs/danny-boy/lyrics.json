@@ -1,0 +1,52 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 17220,
+      "text": "Oh Danny boy, the pipes, the pipes are calling"
+    },
+    {
+      "index": 1,
+      "startMs": 17300,
+      "endMs": 19940,
+      "text": "From glen to glen, and down the mountain side"
+    },
+    {
+      "index": 2,
+      "startMs": 20020,
+      "endMs": 27380,
+      "text": "The summer's gone, and all the roses falling"
+    },
+    {
+      "index": 3,
+      "startMs": 27460,
+      "endMs": 35620,
+      "text": "It's you, it's you must go and I must bide"
+    },
+    {
+      "index": 4,
+      "startMs": 35700,
+      "endMs": 49220,
+      "text": "But come ye back when summer's in the meadow"
+    },
+    {
+      "index": 5,
+      "startMs": 49300,
+      "endMs": 57220,
+      "text": "Or when the valley's hushed and white with snow"
+    },
+    {
+      "index": 6,
+      "startMs": 57300,
+      "endMs": 66340,
+      "text": "It's I'll be here in sunshine or in shadow"
+    },
+    {
+      "index": 7,
+      "startMs": 66420,
+      "endMs": 70420,
+      "text": "Oh Danny boy, oh Danny boy, I love you so"
+    }
+  ]
+}

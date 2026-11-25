@@ -120,6 +120,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "danny-boy",
+      "title": "Danny Boy",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 217100,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/danny-boy/audio/backing.m4a",
+          "sha256": "0a2cbfa2356f9e2b2fddc166153ccdcea1822c88f7e188d4da705cb99e3d6786",
+          "bytes": 3521475
+        },
+        "lyrics": {
+          "path": "songs/danny-boy/lyrics.json",
+          "sha256": "1f6c58bb4044262954afec558ec75f7414e30e28e439cdbfaec29294a17c6e7f",
+          "bytes": 1119
+        },
+        "cover": {
+          "path": "songs/danny-boy/cover.webp",
+          "sha256": "577843a681397efb31216c19387dfc0449fdecbf88812e2ed418acdd829bf134",
+          "bytes": 44386
+        }
+      },
+      "pack": {
+        "path": "packs/danny-boy-4085e16d.zip",
+        "sha256": "4085e16d85d43ca25c45c77481ca1c426eb596ddf840c4a91a8f41dad6114cbc",
+        "bytes": 3363134
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words by Frederick Weatherly (1913) to the traditional air Londonderry Air; public domain. Recording: Weatherly - Schumann-Heink, Public domain (https://commons.wikimedia.org/wiki/File%3ASchumann-Heink_-_Danny_Boy_%28Londonderry_air%29_%281917%29.ogg); backing separated with demucs, lyric timings derived from the recording. Recording from 1917, public domain; the performance is out of copyright in every jurisdiction with a life-plus-70 term."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "drunken-sailor",
       "title": "Drunken Sailor",
       "artist": "Traditional",
