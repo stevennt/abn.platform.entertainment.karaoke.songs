@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 27920,
+      "text": "Down by the old mill stream",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 28000,
+      "endMs": 44920,
+      "text": "Where I first met you",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 45000,
+      "endMs": 51920,
+      "text": "With your eyes of blue",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 52000,
+      "endMs": 67920,
+      "text": "Dressed in gingham too",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 68000,
+      "endMs": 77920,
+      "text": "It was there I knew",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 78000,
+      "endMs": 95920,
+      "text": "That you loved me too",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 96000,
+      "endMs": 110920,
+      "text": "You were sixteen, my village queen",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 111000,
+      "endMs": 115000,
+      "text": "By the old mill stream",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

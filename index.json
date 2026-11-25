@@ -549,6 +549,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "down-by-the-old-mill-stream",
+      "title": "Down by the Old Mill Stream",
+      "artist": "Tell Taylor",
+      "language": "en",
+      "durationMs": 167800,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/down-by-the-old-mill-stream/audio/backing.m4a",
+          "sha256": "808d6f08f86ce66a92a8f6d2b6e5e5046f268b0645024eba3c7eee0d6aed2664",
+          "bytes": 3066485
+        },
+        "lyrics": {
+          "path": "songs/down-by-the-old-mill-stream/lyrics.json",
+          "sha256": "7895aaff895b7b832ff0a71b5c632c33232e33dbd01a90569d1007ffb4529764",
+          "bytes": 1318
+        },
+        "cover": {
+          "path": "songs/down-by-the-old-mill-stream/cover.webp",
+          "sha256": "49942761836e052b9c6ce55faa1956faabdb4eeb3cc9711357f5a78ba07a03d6",
+          "bytes": 40426
+        }
+      },
+      "pack": {
+        "path": "packs/down-by-the-old-mill-stream-43f6dcdf.zip",
+        "sha256": "43f6dcdf67566391ead08b80fde690d8a627166d3c29c9968e8312b8a476d35d",
+        "bytes": 3016027
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words and music by Tell Taylor (1910); public domain. Recording: Recording:\\nBrunswick Quartette\\nComposition:\\n\\nTell Taylor, Public domain (https://commons.wikimedia.org/wiki/File%3ADown_by_the_Old_Mill_Stream_%281911_recording%29.mp3); backing separated with demucs, lyric timings derived from the recording. Performed by the Brunswick Quartette (1911); this recording is public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "dreidel-song",
       "title": "The Dreidel Song",
       "artist": "Traditional",
