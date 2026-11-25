@@ -96,7 +96,11 @@ mkdir -p "$WORK"
 
 count=0
 separator=$(printf '\037')
-while IFS="$separator" read -r id title artist backing lyrics cover licence source; do
+# The queue is read from fd 3, not stdin: the commands below inherit stdin, and
+# a child that consumes a byte from it corrupts the next `read`. That happened —
+# one id lost its first character and was refused as unlicensed.
+exec 3<"$rows"
+while IFS="$separator" read -r id title artist backing lyrics cover licence source <&3; do
   [ -n "${id:-}" ] || continue
   if [ "$LIMIT" -gt 0 ] && [ "$count" -ge "$LIMIT" ]; then
     break
@@ -218,7 +222,8 @@ while IFS="$separator" read -r id title artist backing lyrics cover licence sour
     "$(date -u +%Y-%m-%dT%H:%M:%SZ)" >> "$ROOT/songs/times.csv"
   echo "PUBLISHED $id in ${total}s"
   count=$((count + 1))
-done < "$rows"
+done
+exec 3<&-
 
 rm -f "$rows"
 exit 0

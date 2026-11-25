@@ -159,6 +159,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "away-in-a-manger",
+      "title": "Away in a Manger",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 130220,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/away-in-a-manger/audio/backing.m4a",
+          "sha256": "54d47b8bbacac8dc036ba39288b93a49520f4b0103f419a21f3dca1f404c3541",
+          "bytes": 2124103
+        },
+        "lyrics": {
+          "path": "songs/away-in-a-manger/lyrics.json",
+          "sha256": "1af4be56c4a6ed8e072e4497c347237aca45da75bffea5d07f6097025f6cbb7b",
+          "bytes": 763
+        },
+        "cover": {
+          "path": "songs/away-in-a-manger/cover.webp",
+          "sha256": "f50f372d9b21c31257599fc2a2fb0b89724c6ef3007a03f6b80f3236caff6be5",
+          "bytes": 43736
+        }
+      },
+      "pack": {
+        "path": "packs/away-in-a-manger-ec3a306f.zip",
+        "sha256": "ec3a306fde6bf4ce672962a61ed6c169aaa63ce6a73db9504b2f6a4f44f87f4c",
+        "bytes": 2059804
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional American carol, 19th century; public domain. Recording: Composition: SSgt Tim Davis and SrA David Duneman, James Murray; Mixing and Mastering: SSgt Tim Davis; Performance: United States Air Force Band of Mid-America, Starlifter and Roots in Blue, Public domain (https://commons.wikimedia.org/wiki/File%3AAway_in_a_Manger_%282020%29_-_Starlifter_and_Roots_in_Blue_-_United_States_Air_Force_Band_of_Mid-America.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement by SSgt Tim Davis and SrA David Duneman; performance by the United States Air Force Band of Mid-America (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "battle-hymn",
       "title": "The Battle Hymn of the Republic",
       "artist": "Traditional",

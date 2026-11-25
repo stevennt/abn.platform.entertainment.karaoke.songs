@@ -1,0 +1,37 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 120000,
+      "endMs": 120420,
+      "text": "Away in a manger, no crib for a bed",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 120500,
+      "endMs": 120920,
+      "text": "The little Lord Jesus laid down his sweet head",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 121000,
+      "endMs": 121420,
+      "text": "The stars in the bright sky looked down where he lay",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 121500,
+      "endMs": 125500,
+      "text": "The little Lord Jesus asleep on the hay",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}
