@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "cockles-and-mussels",
+  "title": "Cockles and Mussels",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 167400,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: traditional Irish song, 'Molly Malone', 19th century; public domain. Recording: Composition: traditional; Performance: United States Air Force Band, Celtic Aire; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3ACockles_and_Mussels_-_Celtic_Aire_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Performance by Celtic Aire, United States Air Force Band (a work of the US Government, public domain)."
+  }
+}

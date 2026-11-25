@@ -276,6 +276,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "cockles-and-mussels",
+      "title": "Cockles and Mussels",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 167400,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/cockles-and-mussels/audio/backing.m4a",
+          "sha256": "a5aa7baa7bce606374c720c63d0715da8088335bba91ec7a3191ed162039c7d1",
+          "bytes": 2756527
+        },
+        "lyrics": {
+          "path": "songs/cockles-and-mussels/lyrics.json",
+          "sha256": "fef270f4ef4235d433f2645bdfae2cedae3aa05bd8fd0c9de45186bd3e3cd4b7",
+          "bytes": 1131
+        },
+        "cover": {
+          "path": "songs/cockles-and-mussels/cover.webp",
+          "sha256": "b89ec47104005b7b01b836807e87eec5af968346ba81aad4fd71694c16277c87",
+          "bytes": 39696
+        }
+      },
+      "pack": {
+        "path": "packs/cockles-and-mussels-ed333968.zip",
+        "sha256": "ed33396828cf0f892eb502e64df4e34316b534d2846ab6ffa72bc58bf001483a",
+        "bytes": 2674755
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional Irish song, 'Molly Malone', 19th century; public domain. Recording: Composition: traditional; Performance: United States Air Force Band, Celtic Aire; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3ACockles_and_Mussels_-_Celtic_Aire_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Performance by Celtic Aire, United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "danny-boy",
       "title": "Danny Boy",
       "artist": "Traditional",

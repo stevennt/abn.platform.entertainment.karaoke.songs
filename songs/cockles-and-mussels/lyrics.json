@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 22880,
+      "text": "In Dublin's fair city, where the girls are so pretty",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 22960,
+      "endMs": 30200,
+      "text": "I first set my eyes on sweet Molly Malone",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 30280,
+      "endMs": 41440,
+      "text": "As she wheeled her wheelbarrow through streets broad and narrow",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 41520,
+      "endMs": 52560,
+      "text": "Crying cockles and mussels, alive, alive, oh",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 52640,
+      "endMs": 66560,
+      "text": "Alive, alive, oh, alive, alive, oh",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 66640,
+      "endMs": 70640,
+      "text": "Crying cockles and mussels, alive, alive, oh",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}
