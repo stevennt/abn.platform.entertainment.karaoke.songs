@@ -403,6 +403,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "silent-night",
+      "title": "Silent Night",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 116000,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/silent-night/audio/backing.m4a",
+          "sha256": "77c3235f96c59ca150012332545b73aab821ee600da1c96c1c2a8f36e211527d",
+          "bytes": 1825503
+        },
+        "lyrics": {
+          "path": "songs/silent-night/lyrics.json",
+          "sha256": "70b285b500a8c06f235a370ae6e9b9bacc3259d0c099c01664d504a906e64e1a",
+          "bytes": 739
+        },
+        "cover": {
+          "path": "songs/silent-night/cover.webp",
+          "sha256": "765855658c404f6d9501963c9f02d5c18a644836b7c264df5e085696079f665e",
+          "bytes": 44876
+        }
+      },
+      "pack": {
+        "path": "packs/silent-night-e7d81739.zip",
+        "sha256": "e7d8173977e4a3bbe885fc1aeb691530afb18a05b9ba762876877230cf7f38c0",
+        "bytes": 1829419
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words by Joseph Mohr (1816), music by Franz Xaver Gruber (1818), English by John Freeman Young (1859); all public domain. Recording: Composition: Franz Xaver Guber; Lyrics: John F. Young; Performance: United States Air Force Band, Concert Band; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3ASilent_Night_%281990%29_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement and performance by the United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "spotlight",
       "title": "Spotlight",
       "artist": "ABN Asia",

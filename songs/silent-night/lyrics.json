@@ -1,0 +1,40 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 15360,
+      "text": "Silent night, holy night"
+    },
+    {
+      "index": 1,
+      "startMs": 15440,
+      "endMs": 28160,
+      "text": "All is calm, all is bright"
+    },
+    {
+      "index": 2,
+      "startMs": 28240,
+      "endMs": 40560,
+      "text": "Round yon virgin mother and child"
+    },
+    {
+      "index": 3,
+      "startMs": 40640,
+      "endMs": 52560,
+      "text": "Holy infant so tender and mild"
+    },
+    {
+      "index": 4,
+      "startMs": 52640,
+      "endMs": 66560,
+      "text": "Sleep in heavenly peace"
+    },
+    {
+      "index": 5,
+      "startMs": 66640,
+      "endMs": 70640,
+      "text": "Sleep in heavenly peace"
+    }
+  ]
+}
