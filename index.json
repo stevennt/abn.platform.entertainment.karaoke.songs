@@ -354,6 +354,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "hark-the-herald",
+      "title": "Hark! The Herald Angels Sing",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 114600,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/hark-the-herald/audio/backing.m4a",
+          "sha256": "8d5347c69f1c9329b0b320a289ab66b679eaccc7ead5fd848b5e9e0a1c20fc4d",
+          "bytes": 1861089
+        },
+        "lyrics": {
+          "path": "songs/hark-the-herald/lyrics.json",
+          "sha256": "57723e1e92bb14fadb0187fcd8da370031de1a246782681aecbcfeed7fd07168",
+          "bytes": 1352
+        },
+        "cover": {
+          "path": "songs/hark-the-herald/cover.webp",
+          "sha256": "635dc9f597eebf95930574becb4446cf470ae144fbce6065c2f966e1169f8bf3",
+          "bytes": 41904
+        }
+      },
+      "pack": {
+        "path": "packs/hark-the-herald-0e543cc4.zip",
+        "sha256": "0e543cc4636e490289f95692dfbe36c62005f796462afe1624dbbcf69cb3a157",
+        "bytes": 1842516
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words by Charles Wesley (1739), music by Felix Mendelssohn (1840); both public domain. Recording: Composition: Felix Mendelssohn, William Hayman Cummings, Robert Thurston; Lyrics: Charles Wesley; Performance: United States Air Force Band, Singing Sergeants and Concert Band; Recording: United States Air Force Band, Public domain (https://commons.wikimedia.org/wiki/File%3AHark_the_Herald_Angels_Sing_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement and performance by the United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "kumbaya",
       "title": "Kumbaya",
       "artist": "Traditional",

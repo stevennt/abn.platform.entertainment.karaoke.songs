@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 30000,
+      "endMs": 30590,
+      "text": "Hark! the herald angels sing",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 30670,
+      "endMs": 31250,
+      "text": "Glory to the new-born King",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 31330,
+      "endMs": 59920,
+      "text": "Peace on earth and mercy mild",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 60000,
+      "endMs": 60590,
+      "text": "God and sinners reconciled",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 60670,
+      "endMs": 61250,
+      "text": "Joyful all ye nations rise",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 61330,
+      "endMs": 89920,
+      "text": "Join the triumph of the skies",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 90000,
+      "endMs": 90920,
+      "text": "With the angelic host proclaim",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 91000,
+      "endMs": 95000,
+      "text": "Christ is born in Bethlehem",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

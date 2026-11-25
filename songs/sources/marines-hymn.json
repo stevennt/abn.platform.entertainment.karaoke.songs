@@ -1,0 +1,19 @@
+{
+  "id": "marines-hymn",
+  "title": "The Marines' Hymn",
+  "artist": "Traditional",
+  "commons_title": "File:Marines' Hymn (3 Verses).oga",
+  "tint": "#3F5C4A",
+  "composition": "traditional, 19th century, after Jacques Offenbach (d. 1880); public domain",
+  "credit": "Performance by the United States Marine Band (a work of the US Government, public domain).",
+  "lyrics": [
+    "From the halls of Montezuma",
+    "To the shores of Tripoli",
+    "We will fight our country's battles",
+    "In the air, on land, and sea",
+    "First to fight for right and freedom",
+    "And to keep our honor clean",
+    "We are proud to claim the title",
+    "Of United States Marine"
+  ]
+}

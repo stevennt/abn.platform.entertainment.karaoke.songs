@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "hark-the-herald",
+  "title": "Hark! The Herald Angels Sing",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 114600,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: words by Charles Wesley (1739), music by Felix Mendelssohn (1840); both public domain. Recording: Composition: Felix Mendelssohn, William Hayman Cummings, Robert Thurston; Lyrics: Charles Wesley; Performance: United States Air Force Band, Singing Sergeants and Concert Band; Recording: United States Air Force Band, Public domain (https://commons.wikimedia.org/wiki/File%3AHark_the_Herald_Angels_Sing_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement and performance by the United States Air Force Band (a work of the US Government, public domain)."
+  }
+}
