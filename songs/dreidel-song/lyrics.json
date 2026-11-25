@@ -1,0 +1,52 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 11920,
+      "text": "I have a little dreidel"
+    },
+    {
+      "index": 1,
+      "startMs": 12000,
+      "endMs": 15920,
+      "text": "I made it out of clay"
+    },
+    {
+      "index": 2,
+      "startMs": 16000,
+      "endMs": 20920,
+      "text": "And when it's dry and ready"
+    },
+    {
+      "index": 3,
+      "startMs": 21000,
+      "endMs": 24920,
+      "text": "Then dreidel I shall play"
+    },
+    {
+      "index": 4,
+      "startMs": 25000,
+      "endMs": 28920,
+      "text": "Oh dreidel, dreidel, dreidel"
+    },
+    {
+      "index": 5,
+      "startMs": 29000,
+      "endMs": 31920,
+      "text": "I made it out of clay"
+    },
+    {
+      "index": 6,
+      "startMs": 32000,
+      "endMs": 37920,
+      "text": "Oh dreidel, dreidel, dreidel"
+    },
+    {
+      "index": 7,
+      "startMs": 38000,
+      "endMs": 42000,
+      "text": "Then dreidel I shall play"
+    }
+  ]
+}

@@ -237,6 +237,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "dreidel-song",
+      "title": "The Dreidel Song",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 69600,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/dreidel-song/audio/backing.m4a",
+          "sha256": "6018a44774f1083c36465a6383ab19764233324b945bb0f7e481c41ed69ac741",
+          "bytes": 1132096
+        },
+        "lyrics": {
+          "path": "songs/dreidel-song/lyrics.json",
+          "sha256": "881b8d3cd9fbe034a0151a3d1c97238d37de6e893f89ff3b02eb058a69f2d3b2",
+          "bytes": 966
+        },
+        "cover": {
+          "path": "songs/dreidel-song/cover.webp",
+          "sha256": "9c2e2b5185ff80123da204959d37a005cc6c7b2cc804eab20f3291335fe24df6",
+          "bytes": 50236
+        }
+      },
+      "pack": {
+        "path": "packs/dreidel-song-dc6b50b2.zip",
+        "sha256": "dc6b50b2d81038c2c86a82ad699a34af977fbad5d662ee26df493772128919fa",
+        "bytes": 1133809
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: I Have a Little Dreidel, words and music by Samuel E. Goldfarb (1927); public domain. Recording: Composition: Robert Thurston\\nLyrics: Robert Thurston, Shelley Olson\\nPerformance: United States Air Force Band, Singing Sergeants\\n\\nRecording: United States Air Force Band, Public domain (https://commons.wikimedia.org/wiki/File%3AThe_Dreidel_Song_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement by Robert Thurston; performance by the United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "drunken-sailor",
       "title": "Drunken Sailor",
       "artist": "Traditional",
