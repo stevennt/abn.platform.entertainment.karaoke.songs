@@ -627,6 +627,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "greensleeves",
+      "title": "Greensleeves",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 162300,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/greensleeves/audio/backing.m4a",
+          "sha256": "e96299e071d17c5ae1fc797f18cf0491a374316147d4b3c843a149e97a97f4e7",
+          "bytes": 2617621
+        },
+        "lyrics": {
+          "path": "songs/greensleeves/lyrics.json",
+          "sha256": "a52906504bb3dfcce53f1de9fcba6e796abea13310bab14f838ca2d38cb683ef",
+          "bytes": 1374
+        },
+        "cover": {
+          "path": "songs/greensleeves/cover.webp",
+          "sha256": "3d50142f5f8df5a9f509afc201a39110b39463e008c558f15a816c892b335105",
+          "bytes": 43096
+        }
+      },
+      "pack": {
+        "path": "packs/greensleeves-462119d4.zip",
+        "sha256": "462119d4cbb0b54205a4821114296846cbb49c792eb70a1c1a89f9c93cc05f79",
+        "bytes": 2534333
+      },
+      "licence": {
+        "type": "cc-by",
+        "note": "Composition: traditional English ballad, 16th century; public domain. Recording: Emilio Villalba, CC BY 3.0 (https://commons.wikimedia.org/wiki/File%3AGreensleeves._La_Juglaresa.opus); backing separated with demucs, lyric timings derived from the recording. Performed by La Juglaresa (Emilio Villalba); the recording is CC BY 3.0 on Wikimedia Commons, so the credit is part of the licence."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "hark-the-herald",
       "title": "Hark! The Herald Angels Sing",
       "artist": "Traditional",

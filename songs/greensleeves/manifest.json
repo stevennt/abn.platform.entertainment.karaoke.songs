@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "greensleeves",
+  "title": "Greensleeves",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 162300,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "cc-by",
+    "note": "Composition: traditional English ballad, 16th century; public domain. Recording: Emilio Villalba, CC BY 3.0 (https://commons.wikimedia.org/wiki/File%3AGreensleeves._La_Juglaresa.opus); backing separated with demucs, lyric timings derived from the recording. Performed by La Juglaresa (Emilio Villalba); the recording is CC BY 3.0 on Wikimedia Commons, so the credit is part of the licence."
+  }
+}
