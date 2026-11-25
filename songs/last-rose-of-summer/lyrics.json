@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 29920,
+      "text": "Tis the last rose of summer, left blooming alone",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 30000,
+      "endMs": 59920,
+      "text": "All her lovely companions are faded and gone",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 60000,
+      "endMs": 89920,
+      "text": "No flower of her kindred, no rosebud is nigh",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 90000,
+      "endMs": 119920,
+      "text": "To reflect back her blushes or give sigh for sigh",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 120000,
+      "endMs": 149920,
+      "text": "I'll not leave thee, thou lone one, to pine on the stem",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 150000,
+      "endMs": 150590,
+      "text": "Since the lovely are sleeping, go sleep thou with them",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 150670,
+      "endMs": 151250,
+      "text": "Thus kindly I scatter thy leaves o'er the bed",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 151330,
+      "endMs": 155330,
+      "text": "Where thy mates of the garden lie scentless and dead",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}
