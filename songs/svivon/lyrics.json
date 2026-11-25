@@ -1,0 +1,52 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 5680,
+      "text": "S'vivon, sov, sov, sov"
+    },
+    {
+      "index": 1,
+      "startMs": 5760,
+      "endMs": 41820,
+      "text": "Hanukkah, hu chag tov"
+    },
+    {
+      "index": 2,
+      "startMs": 41900,
+      "endMs": 48820,
+      "text": "Hanukkah, hu chag tov"
+    },
+    {
+      "index": 3,
+      "startMs": 48900,
+      "endMs": 88820,
+      "text": "S'vivon, sov, sov, sov"
+    },
+    {
+      "index": 4,
+      "startMs": 88900,
+      "endMs": 99820,
+      "text": "S'vivon, sov, sov, sov"
+    },
+    {
+      "index": 5,
+      "startMs": 99900,
+      "endMs": 107820,
+      "text": "Hanukkah, hu chag tov"
+    },
+    {
+      "index": 6,
+      "startMs": 107900,
+      "endMs": 114360,
+      "text": "Hanukkah, hu chag tov"
+    },
+    {
+      "index": 7,
+      "startMs": 114440,
+      "endMs": 115000,
+      "text": "S'vivon, sov, sov, sov"
+    }
+  ]
+}

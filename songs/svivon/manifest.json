@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "svivon",
+  "title": "S'vivon",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 115000,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: traditional Hebrew Hanukkah song; public domain. Recording: Composition: Robert Thurston\\nLyrics: Robert Thurston, Shelley Olson\\nPerformance: United States Air Force Band, Singing Sergeants\\n\\nRecording: United States Air Force Band, Public domain (https://commons.wikimedia.org/wiki/File%3AS%27vivon_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement and performance by the United States Air Force Band (a work of the US Government, public domain)."
+  }
+}

@@ -564,6 +564,45 @@
       "updated": "2026-11-24"
     },
     {
+      "id": "svivon",
+      "title": "S'vivon",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 115000,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/svivon/audio/backing.m4a",
+          "sha256": "645e9270448eb344a9fa1c87fc303abd5115b46cafe6a67194c9e81941e9d52e",
+          "bytes": 1869646
+        },
+        "lyrics": {
+          "path": "songs/svivon/lyrics.json",
+          "sha256": "0dd3494fd4caa881913366797f1e352f4838a6b9ee2cfcf9822061195daa6a11",
+          "bytes": 943
+        },
+        "cover": {
+          "path": "songs/svivon/cover.webp",
+          "sha256": "56e964af3230c5e559a037c7f9055b7d3eb2e0583db5d996de6252262c0872ab",
+          "bytes": 45102
+        }
+      },
+      "pack": {
+        "path": "packs/svivon-2a732018.zip",
+        "sha256": "2a732018b7370b20ea1b610b3d73a861e5ec1b19107478976e56be268e2b4b2d",
+        "bytes": 1846942
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional Hebrew Hanukkah song; public domain. Recording: Composition: Robert Thurston\\nLyrics: Robert Thurston, Shelley Olson\\nPerformance: United States Air Force Band, Singing Sergeants\\n\\nRecording: United States Air Force Band, Public domain (https://commons.wikimedia.org/wiki/File%3AS%27vivon_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement and performance by the United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "swing-low",
       "title": "Swing Low, Sweet Chariot",
       "artist": "Traditional",
