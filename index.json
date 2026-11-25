@@ -476,6 +476,45 @@
       "updated": "2026-11-24"
     },
     {
+      "id": "nobody-knows",
+      "title": "Nobody Knows the Trouble I've Seen",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 171400,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/nobody-knows/audio/backing.m4a",
+          "sha256": "2189cd488ee18bfd3bc120fd5e592394bc2b80518a55b2290afc9f2b39bb776a",
+          "bytes": 2782045
+        },
+        "lyrics": {
+          "path": "songs/nobody-knows/lyrics.json",
+          "sha256": "d37a51370a7bf2e52c7b4863bb73c92e7224c87c108ae5f112b16552217dae3a",
+          "bytes": 980
+        },
+        "cover": {
+          "path": "songs/nobody-knows/cover.webp",
+          "sha256": "5e1890400365b2bb90277eabfb0913271d0c02188885520ab705a68fc1444be3",
+          "bytes": 43688
+        }
+      },
+      "pack": {
+        "path": "packs/nobody-knows-8976d0fd.zip",
+        "sha256": "8976d0fde575d8e6ebaead76c1ddb95afea2ad19ad2ea1909210d11c7baf8dea",
+        "bytes": 2639107
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional African-American spiritual, 19th century; public domain. Recording: UnknownUnknown, Public domain (https://commons.wikimedia.org/wiki/File%3AMarian_Anderson_-_Nobody_Knows_de_Trouble_I%27ve_Seen.mp3); backing separated with demucs, lyric timings derived from the recording. Performed by Marian Anderson; this recording is public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "oh-susanna",
       "title": "Oh Susanna",
       "artist": "Stephen Foster",

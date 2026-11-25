@@ -1,0 +1,52 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 30000,
+      "endMs": 48880,
+      "text": "Nobody knows the trouble I've seen"
+    },
+    {
+      "index": 1,
+      "startMs": 48960,
+      "endMs": 64480,
+      "text": "Nobody knows my sorrow"
+    },
+    {
+      "index": 2,
+      "startMs": 64560,
+      "endMs": 78480,
+      "text": "Nobody knows the trouble I've seen"
+    },
+    {
+      "index": 3,
+      "startMs": 78560,
+      "endMs": 86480,
+      "text": "Glory, hallelujah"
+    },
+    {
+      "index": 4,
+      "startMs": 86560,
+      "endMs": 116480,
+      "text": "Sometimes I'm up, sometimes I'm down"
+    },
+    {
+      "index": 5,
+      "startMs": 116560,
+      "endMs": 133200,
+      "text": "Oh yes, Lord"
+    },
+    {
+      "index": 6,
+      "startMs": 133280,
+      "endMs": 141280,
+      "text": "Sometimes I'm almost to the ground"
+    },
+    {
+      "index": 7,
+      "startMs": 141360,
+      "endMs": 145360,
+      "text": "Oh yes, Lord"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "nobody-knows",
+  "title": "Nobody Knows the Trouble I've Seen",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 171400,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: traditional African-American spiritual, 19th century; public domain. Recording: UnknownUnknown, Public domain (https://commons.wikimedia.org/wiki/File%3AMarian_Anderson_-_Nobody_Knows_de_Trouble_I%27ve_Seen.mp3); backing separated with demucs, lyric timings derived from the recording. Performed by Marian Anderson; this recording is public domain on Wikimedia Commons."
+  }
+}
