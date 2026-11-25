@@ -1,0 +1,20 @@
+{
+  "id": "my-old-kentucky-home",
+  "title": "My Old Kentucky Home",
+  "artist": "Stephen Foster",
+  "commons_title": "File:11 Old Kentucky Home.ogg",
+  "tint": "#8A7A4F",
+  "composition": "words and music by Stephen Foster (1853); public domain",
+  "credit": "Recording by Grantyny, released under CC BY 3.0 on Wikimedia Commons, so the credit is part of the licence. Foster's original chorus is omitted: it uses a term this catalogue will not print.",
+  "licence": "cc-by",
+  "lyrics": [
+    "The sun shines bright in the old Kentucky home",
+    "Tis summer, the people are gay",
+    "The corn top's ripe and the meadow's in the bloom",
+    "While the birds make music all the day",
+    "The young folks roll on the little cabin floor",
+    "All merry, all happy and bright",
+    "By and by hard times comes a-knocking at the door",
+    "Then my old Kentucky home, good night"
+  ]
+}

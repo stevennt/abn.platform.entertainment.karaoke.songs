@@ -432,6 +432,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "daisy-bell",
+      "title": "Daisy Bell",
+      "artist": "Harry Dacre",
+      "language": "en",
+      "durationMs": 134600,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/daisy-bell/audio/backing.m4a",
+          "sha256": "5f4271e88804dae94bf3ce705ae9c9204e406aac49623a675ceafd013ecc51c0",
+          "bytes": 2189937
+        },
+        "lyrics": {
+          "path": "songs/daisy-bell/lyrics.json",
+          "sha256": "6b931a570b918f36ed0077648c26d5b79c6df73d3c82fb12563afb43596ec403",
+          "bytes": 1885
+        },
+        "cover": {
+          "path": "songs/daisy-bell/cover.webp",
+          "sha256": "eb1182d662af4e8b34a2c01c4748087b12cc8b52fb588c9592f3178169e94256",
+          "bytes": 48118
+        }
+      },
+      "pack": {
+        "path": "packs/daisy-bell-c090ff9b.zip",
+        "sha256": "c090ff9bda8e5164c06571f9c2a74f0a9c0430379f26c029146069f86ee4dd2d",
+        "bytes": 2187263
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words and music by Harry Dacre (1892); public domain. Recording: Composition: Harry Dacre; Performance: Edward M. Favor, Public domain (https://commons.wikimedia.org/wiki/File%3ADaisy_Bell_sung_by_Edward_M._Favor.ogg); backing separated with demucs, lyric timings derived from the recording. Performed by Edward M. Favor; this recording is public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "danny-boy",
       "title": "Danny Boy",
       "artist": "Traditional",

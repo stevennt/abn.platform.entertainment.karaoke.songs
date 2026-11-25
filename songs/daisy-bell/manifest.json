@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "daisy-bell",
+  "title": "Daisy Bell",
+  "artist": "Harry Dacre",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 134600,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Harry Dacre"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: words and music by Harry Dacre (1892); public domain. Recording: Composition: Harry Dacre; Performance: Edward M. Favor, Public domain (https://commons.wikimedia.org/wiki/File%3ADaisy_Bell_sung_by_Edward_M._Favor.ogg); backing separated with demucs, lyric timings derived from the recording. Performed by Edward M. Favor; this recording is public domain on Wikimedia Commons."
+  }
+}

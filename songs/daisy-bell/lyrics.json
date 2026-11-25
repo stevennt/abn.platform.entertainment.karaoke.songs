@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 3640,
+      "text": "There is a flower within my heart, Daisy, Daisy",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 3720,
+      "endMs": 21400,
+      "text": "Planted one day by a glancing dart",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 21480,
+      "endMs": 24400,
+      "text": "Planted by Daisy Bell",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 24480,
+      "endMs": 27400,
+      "text": "Yet I am longing to share the lot",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 27480,
+      "endMs": 29400,
+      "text": "Of beautiful Daisy Bell",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 29480,
+      "endMs": 31400,
+      "text": "Daisy, Daisy, give me your answer do",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 31480,
+      "endMs": 36400,
+      "text": "I'm half crazy all for the love of you",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 36480,
+      "endMs": 40400,
+      "text": "It won't be a stylish marriage",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 8,
+      "startMs": 40480,
+      "endMs": 43400,
+      "text": "I can't afford a carriage",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 9,
+      "startMs": 43480,
+      "endMs": 47400,
+      "text": "But you'll look sweet upon the seat",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 10,
+      "startMs": 47480,
+      "endMs": 51480,
+      "text": "Of a bicycle built for two",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}
