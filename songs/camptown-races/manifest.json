@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "camptown-races",
+  "title": "Camptown Races",
+  "artist": "Stephen Foster",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 170400,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Stephen Foster"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: words and music by Stephen Foster (1850); public domain. Recording: Harry C. Browne, Public domain (https://commons.wikimedia.org/wiki/File%3AGwine_to_Run_all_Night_%28Harry_C._Browne%2C_1916%29.ogg); backing separated with demucs, lyric timings derived from the recording. Recording from 1916 by Harry C. Browne, public domain. The Commons file keeps the original dialect title; this package uses the standard title and modern spelling."
+  }
+}

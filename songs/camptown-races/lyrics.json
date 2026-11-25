@@ -1,0 +1,76 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 19920,
+      "text": "The Camptown ladies sing this song"
+    },
+    {
+      "index": 1,
+      "startMs": 20000,
+      "endMs": 20920,
+      "text": "Doo-dah, doo-dah"
+    },
+    {
+      "index": 2,
+      "startMs": 21000,
+      "endMs": 26920,
+      "text": "The Camptown race track five miles long"
+    },
+    {
+      "index": 3,
+      "startMs": 27000,
+      "endMs": 27920,
+      "text": "Oh, doo-dah day"
+    },
+    {
+      "index": 4,
+      "startMs": 28000,
+      "endMs": 28920,
+      "text": "I come down there with my hat caved in"
+    },
+    {
+      "index": 5,
+      "startMs": 29000,
+      "endMs": 30920,
+      "text": "Doo-dah, doo-dah"
+    },
+    {
+      "index": 6,
+      "startMs": 31000,
+      "endMs": 32920,
+      "text": "I go back home with a pocket full of tin"
+    },
+    {
+      "index": 7,
+      "startMs": 33000,
+      "endMs": 35920,
+      "text": "Oh, doo-dah day"
+    },
+    {
+      "index": 8,
+      "startMs": 36000,
+      "endMs": 37920,
+      "text": "Going to run all night"
+    },
+    {
+      "index": 9,
+      "startMs": 38000,
+      "endMs": 39920,
+      "text": "Going to run all day"
+    },
+    {
+      "index": 10,
+      "startMs": 40000,
+      "endMs": 41920,
+      "text": "I bet my money on a bob-tailed nag"
+    },
+    {
+      "index": 11,
+      "startMs": 42000,
+      "endMs": 46000,
+      "text": "Somebody bet on the bay"
+    }
+  ]
+}

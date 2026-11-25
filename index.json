@@ -159,6 +159,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "camptown-races",
+      "title": "Camptown Races",
+      "artist": "Stephen Foster",
+      "language": "en",
+      "durationMs": 170400,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/camptown-races/audio/backing.m4a",
+          "sha256": "ced7c5b7135c9b94e245b81ad70e82740bdaad74dad5eec45cd9f63a106eab69",
+          "bytes": 2793123
+        },
+        "lyrics": {
+          "path": "songs/camptown-races/lyrics.json",
+          "sha256": "278b89703fad4af64b5c01cc69f18390c897881cafd17e4e513396936eabebe5",
+          "bytes": 1458
+        },
+        "cover": {
+          "path": "songs/camptown-races/cover.webp",
+          "sha256": "f274137c70a3b6704a7cb326b4b4627995a1f5c285018f64ac5c633d3ee07325",
+          "bytes": 42902
+        }
+      },
+      "pack": {
+        "path": "packs/camptown-races-851be0d1.zip",
+        "sha256": "851be0d182d0952e294e89bedba44f3e8c58c5e494787f3470b82e8e298ad5b7",
+        "bytes": 2702250
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words and music by Stephen Foster (1850); public domain. Recording: Harry C. Browne, Public domain (https://commons.wikimedia.org/wiki/File%3AGwine_to_Run_all_Night_%28Harry_C._Browne%2C_1916%29.ogg); backing separated with demucs, lyric timings derived from the recording. Recording from 1916 by Harry C. Browne, public domain. The Commons file keeps the original dialect title; this package uses the standard title and modern spelling."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "danny-boy",
       "title": "Danny Boy",
       "artist": "Traditional",
