@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 8800,
+      "text": "In a neat little town they call Belfast",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 8880,
+      "endMs": 19440,
+      "text": "Apprenticed to trade I was bound",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 19520,
+      "endMs": 23200,
+      "text": "And many an hour of sweet happiness",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 23280,
+      "endMs": 29920,
+      "text": "I spent in that neat little town",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 30000,
+      "endMs": 36880,
+      "text": "Her eyes they shone like diamonds",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 36960,
+      "endMs": 43680,
+      "text": "I thought her the queen of the land",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 43760,
+      "endMs": 50480,
+      "text": "And her hair hung over her shoulder",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 50560,
+      "endMs": 54560,
+      "text": "Tied up with a black velvet band",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

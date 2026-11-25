@@ -237,6 +237,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "black-velvet-band",
+      "title": "The Black Velvet Band",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 280346,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/black-velvet-band/audio/backing.m4a",
+          "sha256": "659d7bf9a4ff4688242282d16465711e1d03079760eaf3065e5ec7e3cf0be90f",
+          "bytes": 4614107
+        },
+        "lyrics": {
+          "path": "songs/black-velvet-band/lyrics.json",
+          "sha256": "548d00e6ee1e6ec8bb52a4830468a34afcdd99f57a1b315e70068cac87b90a18",
+          "bytes": 1398
+        },
+        "cover": {
+          "path": "songs/black-velvet-band/cover.webp",
+          "sha256": "35009b12eee9a0e011cfb9adff140171481fce95b53da836d46cd571170bd442",
+          "bytes": 38848
+        }
+      },
+      "pack": {
+        "path": "packs/black-velvet-band-36512e30.zip",
+        "sha256": "36512e30db3660be685488b701a6799b20e41b478231402ae592d6c7f715a5fb",
+        "bytes": 4432780
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional Irish street ballad, 19th century; public domain. Recording: Composition: traditional; Performance: United States Air Force Band, Celtic Aire; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3ABlack_Velvet_Band_-_Celtic_Aire_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Performance by Celtic Aire, United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "camptown-races",
       "title": "Camptown Races",
       "artist": "Stephen Foster",
