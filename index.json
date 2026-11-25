@@ -520,6 +520,45 @@
       "updated": "2026-11-24"
     },
     {
+      "id": "scarborough-fair",
+      "title": "Scarborough Fair",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 227082,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/scarborough-fair/audio/backing.m4a",
+          "sha256": "3c5dc889d6f45bab04c75c2f3cd497c6664d78b996d70f65139c02a7d9611604",
+          "bytes": 3682444
+        },
+        "lyrics": {
+          "path": "songs/scarborough-fair/lyrics.json",
+          "sha256": "417775bf8b404fed5adfb6cb66f53c4c668f25ac4fb250b07570235ad1041f06",
+          "bytes": 1042
+        },
+        "cover": {
+          "path": "songs/scarborough-fair/cover.webp",
+          "sha256": "48f3fd020b18c85c3b3449f8628fa26de502b326a22aac03f77fb74471bce6b3",
+          "bytes": 46046
+        }
+      },
+      "pack": {
+        "path": "packs/scarborough-fair-2efd874f.zip",
+        "sha256": "2efd874fe8543cc52a9a8bfe8529d21a6619f770081ef139a5f53e411d8ae6e4",
+        "bytes": 3519315
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional English ballad, 17th century; public domain. Recording: Pracchia-78, Public domain (https://commons.wikimedia.org/wiki/File%3AAnonimo_-_Scarborough_Fair.ogg); backing separated with demucs, lyric timings derived from the recording. Performance by Pracchia-78; recording released into the public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "shenandoah",
       "title": "Shenandoah",
       "artist": "Traditional",

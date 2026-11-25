@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "scarborough-fair",
+  "title": "Scarborough Fair",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 227082,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: traditional English ballad, 17th century; public domain. Recording: Pracchia-78, Public domain (https://commons.wikimedia.org/wiki/File%3AAnonimo_-_Scarborough_Fair.ogg); backing separated with demucs, lyric timings derived from the recording. Performance by Pracchia-78; recording released into the public domain on Wikimedia Commons."
+  }
+}

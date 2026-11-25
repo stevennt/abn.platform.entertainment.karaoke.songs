@@ -1,0 +1,52 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 29920,
+      "text": "Are you going to Scarborough Fair"
+    },
+    {
+      "index": 1,
+      "startMs": 30000,
+      "endMs": 59920,
+      "text": "Parsley, sage, rosemary and thyme"
+    },
+    {
+      "index": 2,
+      "startMs": 60000,
+      "endMs": 89920,
+      "text": "Remember me to one who lives there"
+    },
+    {
+      "index": 3,
+      "startMs": 90000,
+      "endMs": 119920,
+      "text": "She once was a true love of mine"
+    },
+    {
+      "index": 4,
+      "startMs": 120000,
+      "endMs": 149920,
+      "text": "Tell her to make me a cambric shirt"
+    },
+    {
+      "index": 5,
+      "startMs": 150000,
+      "endMs": 179920,
+      "text": "Parsley, sage, rosemary and thyme"
+    },
+    {
+      "index": 6,
+      "startMs": 180000,
+      "endMs": 209920,
+      "text": "Without no seams nor needlework"
+    },
+    {
+      "index": 7,
+      "startMs": 210000,
+      "endMs": 214000,
+      "text": "Then she'll be a true love of mine"
+    }
+  ]
+}
