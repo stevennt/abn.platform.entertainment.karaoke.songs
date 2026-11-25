@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "alexanders-ragtime-band",
+  "title": "Alexander's Ragtime Band",
+  "artist": "Irving Berlin",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 254500,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Irving Berlin"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: words and music by Irving Berlin (1911); public domain. Recording: Irving Berlin, Public domain (https://commons.wikimedia.org/wiki/File%3AAlexander%27s_Ragtime_Band_-_Billy_Murray.ogg); backing separated with demucs, lyric timings derived from the recording. Performed by Billy Murray; this recording is public domain on Wikimedia Commons."
+  }
+}

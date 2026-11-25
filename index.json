@@ -3,6 +3,45 @@
   "updated": "2026-11-25",
   "songs": [
     {
+      "id": "alexanders-ragtime-band",
+      "title": "Alexander's Ragtime Band",
+      "artist": "Irving Berlin",
+      "language": "en",
+      "durationMs": 254500,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/alexanders-ragtime-band/audio/backing.m4a",
+          "sha256": "01bb749cb06883aa33f5fd0f8a7cd045ced188ba4d44002133722e1ff7cef94f",
+          "bytes": 4129279
+        },
+        "lyrics": {
+          "path": "songs/alexanders-ragtime-band/lyrics.json",
+          "sha256": "af1eca56dd55257f1af970c1b4bc5fd83a71ff923abcd7670503d917b8998070",
+          "bytes": 1066
+        },
+        "cover": {
+          "path": "songs/alexanders-ragtime-band/cover.webp",
+          "sha256": "6b3b48909198b756ddc989983863ea0c5b5cadfe40e0ec12570e32c8ad0f0104",
+          "bytes": 47552
+        }
+      },
+      "pack": {
+        "path": "packs/alexanders-ragtime-band-9de18bfc.zip",
+        "sha256": "9de18bfc13a484cc91cfef17ba8e2882db278250de6d7ae2e7fa20167f1908ea",
+        "bytes": 3982752
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words and music by Irving Berlin (1911); public domain. Recording: Irving Berlin, Public domain (https://commons.wikimedia.org/wiki/File%3AAlexander%27s_Ragtime_Band_-_Billy_Murray.ogg); backing separated with demucs, lyric timings derived from the recording. Performed by Billy Murray; this recording is public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "amazing-grace",
       "title": "Amazing Grace",
       "artist": "Traditional",

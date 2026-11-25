@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 26680,
+      "text": "Come on and hear, come on and hear",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 26760,
+      "endMs": 35840,
+      "text": "Alexander's Ragtime Band",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 35920,
+      "endMs": 46320,
+      "text": "Come on and hear, come on and hear",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 46400,
+      "endMs": 55760,
+      "text": "It's the best band in the land",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 55840,
+      "endMs": 63720,
+      "text": "They can play a bugle call like you never heard before",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 63800,
+      "endMs": 67800,
+      "text": "So natural that you want to go to war",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}
