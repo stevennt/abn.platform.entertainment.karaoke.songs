@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "it-came-upon-a-midnight-clear",
+  "title": "It Came Upon the Midnight Clear",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 108700,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: words by Edmund Sears (1849), music by Richard Storrs Willis (1850); both public domain. Recording: Composition: Richard Storrs Willis, James R. Murray, Robert Thurston; Lyrics: Edmund Sears; Performance: United States Air Force Band, Singing Sergeants and Concert Band; Recording: United States Air Force Band, Public domain (https://commons.wikimedia.org/wiki/File%3AIt_Came_Upon_a_Midnight_Clear_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement and performance by the United States Air Force Band (a work of the US Government, public domain)."
+  }
+}

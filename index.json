@@ -393,6 +393,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "it-came-upon-a-midnight-clear",
+      "title": "It Came Upon the Midnight Clear",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 108700,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/it-came-upon-a-midnight-clear/audio/backing.m4a",
+          "sha256": "d0b5e42d39db7991ac83d2ae9668208764b55269d4a9f82d18bbfd6135f1ce58",
+          "bytes": 1763401
+        },
+        "lyrics": {
+          "path": "songs/it-came-upon-a-midnight-clear/lyrics.json",
+          "sha256": "8a995fcf5cf907bc41defbcaae889007c642aee388e296bed722b546ca7838c3",
+          "bytes": 1370
+        },
+        "cover": {
+          "path": "songs/it-came-upon-a-midnight-clear/cover.webp",
+          "sha256": "ec26fe2ad42e0acf8431e0cf26f2cba00a63729479b43268f8fa25db96189b38",
+          "bytes": 45442
+        }
+      },
+      "pack": {
+        "path": "packs/it-came-upon-a-midnight-clear-6ef4e713.zip",
+        "sha256": "6ef4e71313d21fde2da087ae367e46485285cbd874e3050c2a207896477b2e5f",
+        "bytes": 1780725
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words by Edmund Sears (1849), music by Richard Storrs Willis (1850); both public domain. Recording: Composition: Richard Storrs Willis, James R. Murray, Robert Thurston; Lyrics: Edmund Sears; Performance: United States Air Force Band, Singing Sergeants and Concert Band; Recording: United States Air Force Band, Public domain (https://commons.wikimedia.org/wiki/File%3AIt_Came_Upon_a_Midnight_Clear_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement and performance by the United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "kumbaya",
       "title": "Kumbaya",
       "artist": "Traditional",

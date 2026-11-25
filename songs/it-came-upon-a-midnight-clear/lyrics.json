@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 13920,
+      "text": "It came upon the midnight clear",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 14000,
+      "endMs": 27920,
+      "text": "That glorious song of old",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 28000,
+      "endMs": 42920,
+      "text": "From angels bending near the earth",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 43000,
+      "endMs": 59920,
+      "text": "To touch their harps of gold",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 60000,
+      "endMs": 77920,
+      "text": "Peace on the earth, goodwill to men",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 78000,
+      "endMs": 91420,
+      "text": "From heaven's all-gracious King",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 91500,
+      "endMs": 107920,
+      "text": "The world in solemn stillness lay",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 108000,
+      "endMs": 108700,
+      "text": "To hear the angels sing",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}
