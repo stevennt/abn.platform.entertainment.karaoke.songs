@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 60000,
+      "endMs": 60170,
+      "text": "You're a grand old flag",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 60250,
+      "endMs": 60420,
+      "text": "You're a high-flying flag",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 60500,
+      "endMs": 60670,
+      "text": "And forever in peace may you wave",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 60750,
+      "endMs": 60920,
+      "text": "You're the emblem of the land I love",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 61000,
+      "endMs": 61170,
+      "text": "The home of the free and the brave",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 61250,
+      "endMs": 61420,
+      "text": "Every heart beats true",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 61500,
+      "endMs": 61670,
+      "text": "For the red, white and blue",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 61750,
+      "endMs": 65750,
+      "text": "Where there's never a boast or brag",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

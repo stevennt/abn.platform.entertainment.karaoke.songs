@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "grand-old-flag",
+  "title": "You're a Grand Old Flag",
+  "artist": "George M. Cohan",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 77218,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "George M. Cohan"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: words and music by George M. Cohan (1906); public domain. Recording: United States Air Force Band, Public domain (https://commons.wikimedia.org/wiki/File%3AUSAFB_-_You%E2%80%99re_a_Grand_Old_Flag.ogg); backing separated with demucs, lyric timings derived from the recording. Performance by the United States Air Force Band (a work of the US Government, public domain)."
+  }
+}

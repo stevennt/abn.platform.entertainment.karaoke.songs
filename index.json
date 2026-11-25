@@ -354,6 +354,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "grand-old-flag",
+      "title": "You're a Grand Old Flag",
+      "artist": "George M. Cohan",
+      "language": "en",
+      "durationMs": 77218,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/grand-old-flag/audio/backing.m4a",
+          "sha256": "a415ce0085c5cff307d2b9d104e39869d1905092b3c1ee4bab79c48a37bbb3a9",
+          "bytes": 1260483
+        },
+        "lyrics": {
+          "path": "songs/grand-old-flag/lyrics.json",
+          "sha256": "8cecba2a85b8d7f6b38bda5a4d03c07c2b563ad94c9cf1d56bca12ed9f5aac7c",
+          "bytes": 1366
+        },
+        "cover": {
+          "path": "songs/grand-old-flag/cover.webp",
+          "sha256": "9a2fb9359a9c93ca24d0cc135e422c0c33fe102ba4f9e4c3b8e059f5c0fed9f5",
+          "bytes": 37730
+        }
+      },
+      "pack": {
+        "path": "packs/grand-old-flag-9fd7daeb.zip",
+        "sha256": "9fd7daeb36effa98ab259561cf4a6dd0fbd88661c7ffe26100fc74fa9479f169",
+        "bytes": 1235066
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words and music by George M. Cohan (1906); public domain. Recording: United States Air Force Band, Public domain (https://commons.wikimedia.org/wiki/File%3AUSAFB_-_You%E2%80%99re_a_Grand_Old_Flag.ogg); backing separated with demucs, lyric timings derived from the recording. Performance by the United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "hark-the-herald",
       "title": "Hark! The Herald Angels Sing",
       "artist": "Traditional",
