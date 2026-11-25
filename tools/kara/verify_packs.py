@@ -28,6 +28,44 @@ def fetch(url):
         return response.read()
 
 
+def purge(url):
+    """Asks jsDelivr to drop its copy of [url].
+
+    A freshly published pack can answer 403 until jsDelivr has fetched it; the
+    file is on GitHub and serves fine from raw.githubusercontent.com. Purging is
+    the documented way to force the fetch. Returns True when the purge service
+    accepted the request.
+    """
+    import time
+
+    target = url.replace(
+        "https://cdn.jsdelivr.net/gh/", "https://purge.jsdelivr.net/gh/"
+    )
+    try:
+        body = fetch(target)
+    except Exception:  # noqa: BLE001 - a failed purge is reported by the retry
+        return False
+    time.sleep(3)
+    return b"finished" in body
+
+
+def fetch_with_purge(url):
+    """Fetches [url], purging once and retrying on a 403.
+
+    The double meaning of 403 is the problem: it can be "cold cache" (harmless,
+    fixed by a purge) or "not there" (a real break). One retry after a purge
+    separates them, and the caller is told which happened.
+    """
+    try:
+        return fetch(url), False
+    except urllib.error.HTTPError as error:
+        if error.code != 403:
+            raise
+        if not purge(url):
+            raise
+        return fetch(url), True
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--count", type=int, default=3)
@@ -49,7 +87,7 @@ def main():
     for song in chosen:
         url = f"{CDN}/{song['pack']['path']}"
         try:
-            body = fetch(url)
+            body, purged = fetch_with_purge(url)
         except urllib.error.HTTPError as error:
             print(f"BROKEN  {song['id']}: {error.code} for {url}")
             bad += 1
@@ -58,6 +96,8 @@ def main():
         want_sha = song["pack"]["sha256"]
         want_bytes = song["pack"]["bytes"]
         ok = digest == want_sha and len(body) == want_bytes
+        if purged:
+            print(f"  (cold cache: {song['id']} needed a jsDelivr purge)")
         print(
             f"{'OK     ' if ok else 'BROKEN '} {song['id']:<16} "
             f"bytes={len(body):>8} want={want_bytes:>8} "
