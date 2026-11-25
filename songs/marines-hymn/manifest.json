@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "marines-hymn",
+  "title": "The Marines' Hymn",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 101000,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: traditional, 19th century, after Jacques Offenbach (d. 1880); public domain. Recording: United States Marine Band, Public domain (https://commons.wikimedia.org/wiki/File%3AMarines%27_Hymn_%283_Verses%29.oga); backing separated with demucs, lyric timings derived from the recording. Performance by the United States Marine Band (a work of the US Government, public domain)."
+  }
+}

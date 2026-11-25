@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 90000,
+      "endMs": 90170,
+      "text": "From the halls of Montezuma",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 90250,
+      "endMs": 90420,
+      "text": "To the shores of Tripoli",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 90500,
+      "endMs": 90670,
+      "text": "We will fight our country's battles",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 90750,
+      "endMs": 90920,
+      "text": "In the air, on land, and sea",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 91000,
+      "endMs": 91170,
+      "text": "First to fight for right and freedom",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 91250,
+      "endMs": 91420,
+      "text": "And to keep our honor clean",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 91500,
+      "endMs": 91670,
+      "text": "We are proud to claim the title",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 91750,
+      "endMs": 95750,
+      "text": "Of United States Marine",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

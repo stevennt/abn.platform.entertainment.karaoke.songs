@@ -549,6 +549,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "marines-hymn",
+      "title": "The Marines' Hymn",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 101000,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/marines-hymn/audio/backing.m4a",
+          "sha256": "92ec1a3e3bf17943136e344b866b6916cdd7ffcfd8fa0d5aa6b2d5196cd30508",
+          "bytes": 1647777
+        },
+        "lyrics": {
+          "path": "songs/marines-hymn/lyrics.json",
+          "sha256": "f46c15700387042df8f0c7f90f8fa7e79ddb73ff00926b3032749db3f54ec977",
+          "bytes": 1362
+        },
+        "cover": {
+          "path": "songs/marines-hymn/cover.webp",
+          "sha256": "148130451a439e6cbf32dfff5be21c0d9b82f6bffd2347367aa4ced37b957eee",
+          "bytes": 34782
+        }
+      },
+      "pack": {
+        "path": "packs/marines-hymn-67b0c343.zip",
+        "sha256": "67b0c343a1cff9bf96ec529cef7ab404059d60cf7d06c44b4e8407629737c242",
+        "bytes": 1596581
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional, 19th century, after Jacques Offenbach (d. 1880); public domain. Recording: United States Marine Band, Public domain (https://commons.wikimedia.org/wiki/File%3AMarines%27_Hymn_%283_Verses%29.oga); backing separated with demucs, lyric timings derived from the recording. Performance by the United States Marine Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "my-bonnie",
       "title": "My Bonnie Lies Over the Ocean",
       "artist": "Traditional",
