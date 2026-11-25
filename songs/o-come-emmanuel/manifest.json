@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "o-come-emmanuel",
+  "title": "O Come, O Come, Emmanuel",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 157600,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: Latin antiphons, 12th century; English by John Mason Neale (1851); public domain. Recording: Composition: traditional; Performance: United States Air Force Band of the Pacific Northwest; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3AO_Come%2C_O_Come_Emmanuel_-_United_States_Air_Force_Band_of_the_Pacific_Northwest.opus); backing separated with demucs, lyric timings derived from the recording. Performance by the United States Air Force Band of the Pacific Northwest (a work of the US Government, public domain)."
+  }
+}

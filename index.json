@@ -593,6 +593,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "o-come-emmanuel",
+      "title": "O Come, O Come, Emmanuel",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 157600,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/o-come-emmanuel/audio/backing.m4a",
+          "sha256": "0283814e243b2e1e4e1d861b59029729eead636652a9a43a4a02dfff8902415e",
+          "bytes": 2556395
+        },
+        "lyrics": {
+          "path": "songs/o-come-emmanuel/lyrics.json",
+          "sha256": "7f45a910bf1263396797851af7c9a7d7deaffd0330ada5cabcc8397db75f1ffc",
+          "bytes": 1020
+        },
+        "cover": {
+          "path": "songs/o-come-emmanuel/cover.webp",
+          "sha256": "a566cdefa3914d14e1b8fb86b19a6f56e7d04ca2b645ef7dd4b85664ea4878a2",
+          "bytes": 44970
+        }
+      },
+      "pack": {
+        "path": "packs/o-come-emmanuel-7f2fb538.zip",
+        "sha256": "7f2fb5382435e9ee6502fd7e27a81a162ecd95ec8fa4448360f96b0b7bf5c7cc",
+        "bytes": 2482268
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: Latin antiphons, 12th century; English by John Mason Neale (1851); public domain. Recording: Composition: traditional; Performance: United States Air Force Band of the Pacific Northwest; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3AO_Come%2C_O_Come_Emmanuel_-_United_States_Air_Force_Band_of_the_Pacific_Northwest.opus); backing separated with demucs, lyric timings derived from the recording. Performance by the United States Air Force Band of the Pacific Northwest (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "o-little-town",
       "title": "O Little Town of Bethlehem",
       "artist": "Traditional",

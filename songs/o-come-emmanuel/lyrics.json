@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 29920,
+      "text": "O come, O come, Emmanuel",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 30000,
+      "endMs": 59920,
+      "text": "And ransom captive Israel",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 60000,
+      "endMs": 89920,
+      "text": "That mourns in lonely exile here",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 90000,
+      "endMs": 119920,
+      "text": "Until the Son of God appear",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 120000,
+      "endMs": 149920,
+      "text": "Rejoice, rejoice, Emmanuel",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 150000,
+      "endMs": 154000,
+      "text": "Shall come to thee, O Israel",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}
