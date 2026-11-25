@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 4240,
+      "text": "I'll tell me ma when I go home",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 4320,
+      "endMs": 8320,
+      "text": "The boys won't leave the girls alone",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 8400,
+      "endMs": 12400,
+      "text": "They pulled my hair, they stole my comb",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 12480,
+      "endMs": 16480,
+      "text": "But that's all right till I go home",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 16560,
+      "endMs": 20640,
+      "text": "She is handsome, she is pretty",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 20720,
+      "endMs": 24640,
+      "text": "She is the belle of Belfast city",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 24720,
+      "endMs": 28720,
+      "text": "She is courting, one two three",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 28800,
+      "endMs": 32800,
+      "text": "Please won't you tell me, who is she?",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

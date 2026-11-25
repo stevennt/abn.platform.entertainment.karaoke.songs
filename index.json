@@ -627,6 +627,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "i-tell-me-ma",
+      "title": "I Tell Me Ma",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 134844,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/i-tell-me-ma/audio/backing.m4a",
+          "sha256": "30672f9815fb158b16a7c28dede4b83999fbfd1025b00e61c1156a12897a4bc1",
+          "bytes": 2221720
+        },
+        "lyrics": {
+          "path": "songs/i-tell-me-ma/lyrics.json",
+          "sha256": "962c13f2ccb3d3d415c51d8d39761fdc5859d6cd9394be377872c4c9f82ee702",
+          "bytes": 1392
+        },
+        "cover": {
+          "path": "songs/i-tell-me-ma/cover.webp",
+          "sha256": "75240dc9b78dd67ac11bee1ebcb5a4a5a29190bb7928b684ebd7a6427522bae5",
+          "bytes": 43914
+        }
+      },
+      "pack": {
+        "path": "packs/i-tell-me-ma-ce1dc5d5.zip",
+        "sha256": "ce1dc5d596bb4dc6c4ff056a333485be8231f8ad11cd6303143455dd9c0d05b4",
+        "bytes": 2169998
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional children's song from Belfast; public domain. Recording: Composition: traditional; Performance: United States Air Force Band, Celtic Aire; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3AI_Tell_Me_Ma_-_Celtic_Aire_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Performance by Celtic Aire, United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "it-came-upon-a-midnight-clear",
       "title": "It Came Upon the Midnight Clear",
       "artist": "Traditional",
