@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 11280,
+      "text": "In the year of our Lord eighteen hundred and six",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 11360,
+      "endMs": 19040,
+      "text": "We set sail from the coal quay of Cork",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 19120,
+      "endMs": 26760,
+      "text": "We were sailing away with a cargo of bricks",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 26840,
+      "endMs": 37520,
+      "text": "For the grand city hall in New York",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 37600,
+      "endMs": 41400,
+      "text": "We'd an elegant craft, she was rigged fore and aft",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 41480,
+      "endMs": 45220,
+      "text": "And oh, how the trade winds drove her",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 45300,
+      "endMs": 53000,
+      "text": "She had twenty-three masts and she stood several blasts",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 53080,
+      "endMs": 57080,
+      "text": "And they called her the Irish Rover",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

@@ -666,6 +666,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "irish-rover",
+      "title": "The Irish Rover",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 222900,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/irish-rover/audio/backing.m4a",
+          "sha256": "ef38b362e7974d74b6190f24576b305e0c96416d8485e8938fab99676da29ad0",
+          "bytes": 3735761
+        },
+        "lyrics": {
+          "path": "songs/irish-rover/lyrics.json",
+          "sha256": "529258b5c68820ae0b69421aa779f3c918205f0732c92a4d3e0ec8e207add951",
+          "bytes": 1468
+        },
+        "cover": {
+          "path": "songs/irish-rover/cover.webp",
+          "sha256": "57a8666abd873d88e8cb2ff7d3a138cfab9dd75856e19a442c2bcf6eec969b42",
+          "bytes": 38148
+        }
+      },
+      "pack": {
+        "path": "packs/irish-rover-53e50ad9.zip",
+        "sha256": "53e50ad9277b3b0ad81808a52f21d769fb982e40d4e0501444bdb45ba8e62726",
+        "bytes": 3621700
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional Irish song, early 19th century; public domain. Recording: Composition: traditional; Performance: United States Air Force Band, Celtic Aire; Recording: United States Air Force, Public domain (https://commons.wikimedia.org/wiki/File%3AIrish_Rover_-_Celtic_Aire_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Performance by Celtic Aire, United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "it-came-upon-a-midnight-clear",
       "title": "It Came Upon the Midnight Clear",
       "artist": "Traditional",
