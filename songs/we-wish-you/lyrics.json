@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 29920,
+      "text": "We wish you a merry Christmas",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 30000,
+      "endMs": 59920,
+      "text": "We wish you a merry Christmas",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 60000,
+      "endMs": 89920,
+      "text": "We wish you a merry Christmas",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 90000,
+      "endMs": 119920,
+      "text": "And a happy new year",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 120000,
+      "endMs": 120920,
+      "text": "Good tidings we bring to you and your kin",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 121000,
+      "endMs": 125000,
+      "text": "We wish you a merry Christmas and a happy new year",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

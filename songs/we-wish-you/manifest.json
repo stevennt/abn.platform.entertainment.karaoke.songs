@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "we-wish-you",
+  "title": "We Wish You a Merry Christmas",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 134975,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: traditional English carol, 16th century; public domain. Recording: Composition: SSgt Tim Davis and SrA David Duneman, traditional; Mixing and Mastering: SSgt Tim Davis; Performance: United States Air Force Band of Mid-America, Starlifter and Roots in Blue, Public domain (https://commons.wikimedia.org/wiki/File%3AWe_Wish_You_a_Merry_Christmas_%282020%29_-_Starlifter_and_Roots_in_Blue_-_United_States_Air_Force_Band_of_Mid-America.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement by SSgt Tim Davis and SrA David Duneman; performance by the United States Air Force Band of Mid-America (a work of the US Government, public domain)."
+  }
+}
