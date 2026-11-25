@@ -1,0 +1,52 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 2080,
+      "text": "Deck the halls with boughs of holly"
+    },
+    {
+      "index": 1,
+      "startMs": 2160,
+      "endMs": 4240,
+      "text": "Fa la la la la, la la la la"
+    },
+    {
+      "index": 2,
+      "startMs": 4320,
+      "endMs": 6380,
+      "text": "Tis the season to be jolly"
+    },
+    {
+      "index": 3,
+      "startMs": 6460,
+      "endMs": 8520,
+      "text": "Fa la la la la, la la la la"
+    },
+    {
+      "index": 4,
+      "startMs": 8600,
+      "endMs": 10660,
+      "text": "Don we now our gay apparel"
+    },
+    {
+      "index": 5,
+      "startMs": 10740,
+      "endMs": 12800,
+      "text": "Fa la la, la la la, la la la"
+    },
+    {
+      "index": 6,
+      "startMs": 12880,
+      "endMs": 16160,
+      "text": "Troll the ancient Yuletide carol"
+    },
+    {
+      "index": 7,
+      "startMs": 16240,
+      "endMs": 20240,
+      "text": "Fa la la la la, la la la la"
+    }
+  ]
+}

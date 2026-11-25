@@ -198,6 +198,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "deck-the-halls",
+      "title": "Deck the Halls",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 22282,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/deck-the-halls/audio/backing.m4a",
+          "sha256": "1da5471dd21adb19de3a8700ee7b291f78d0b004b2b25afa8f01cd11b2de993c",
+          "bytes": 362344
+        },
+        "lyrics": {
+          "path": "songs/deck-the-halls/lyrics.json",
+          "sha256": "59365aa95ae768f885c3e80a29d2324c38e69abb3dcc29fbf35c80538e034b26",
+          "bytes": 988
+        },
+        "cover": {
+          "path": "songs/deck-the-halls/cover.webp",
+          "sha256": "db95850ddd0085b979c08957d248e1d37398c08c53aa9cde4f3012e1786cabe7",
+          "bytes": 41440
+        }
+      },
+      "pack": {
+        "path": "packs/deck-the-halls-b82321ac.zip",
+        "sha256": "b82321acde74b0c2e8aa30dee73520d1e21690caa271e1f400931060559d3010",
+        "bytes": 400412
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional Welsh melody, English words by Thomas Oliphant (1862); both public domain. Recording: Composition: traditional, Robert Thurston; Lyrics: Thomas Oliphant; Performance: United States Air Force Band, Singing Sergeants; Recording: United States Air Force Band, Public domain (https://commons.wikimedia.org/wiki/File%3ADeck_the_Halls_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement by Robert Thurston; performance by the United States Air Force Band (a work of the US Government, public domain)."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "drunken-sailor",
       "title": "Drunken Sailor",
       "artist": "Traditional",

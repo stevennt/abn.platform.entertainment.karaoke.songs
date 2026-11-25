@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "deck-the-halls",
+  "title": "Deck the Halls",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 22282,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: traditional Welsh melody, English words by Thomas Oliphant (1862); both public domain. Recording: Composition: traditional, Robert Thurston; Lyrics: Thomas Oliphant; Performance: United States Air Force Band, Singing Sergeants; Recording: United States Air Force Band, Public domain (https://commons.wikimedia.org/wiki/File%3ADeck_the_Halls_-_Singing_Sergeants_-_United_States_Air_Force_Band.mp3); backing separated with demucs, lyric timings derived from the recording. Arrangement by Robert Thurston; performance by the United States Air Force Band (a work of the US Government, public domain)."
+  }
+}
