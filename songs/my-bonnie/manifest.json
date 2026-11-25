@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "my-bonnie",
+  "title": "My Bonnie Lies Over the Ocean",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 141700,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: traditional Scottish song, 19th century; public domain. Recording: Haydn Quartet, Public domain (https://commons.wikimedia.org/wiki/File%3AMy_Bonnie_lies_over_the_ocean_%28Haydn_Quartet%2C_1901%29.mp3); backing separated with demucs, lyric timings derived from the recording. Recording from 1901, public domain; the performance is out of copyright in every jurisdiction with a life-plus-70 term."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 4920,
+      "text": "My bonnie lies over the ocean"
+    },
+    {
+      "index": 1,
+      "startMs": 5000,
+      "endMs": 11920,
+      "text": "My bonnie lies over the sea"
+    },
+    {
+      "index": 2,
+      "startMs": 12000,
+      "endMs": 18920,
+      "text": "My bonnie lies over the ocean"
+    },
+    {
+      "index": 3,
+      "startMs": 19000,
+      "endMs": 24920,
+      "text": "Oh bring back my bonnie to me"
+    },
+    {
+      "index": 4,
+      "startMs": 25000,
+      "endMs": 30920,
+      "text": "Bring back, bring back"
+    },
+    {
+      "index": 5,
+      "startMs": 31000,
+      "endMs": 36920,
+      "text": "Oh bring back my bonnie to me, to me"
+    },
+    {
+      "index": 6,
+      "startMs": 37000,
+      "endMs": 42920,
+      "text": "Bring back, bring back"
+    },
+    {
+      "index": 7,
+      "startMs": 43000,
+      "endMs": 47000,
+      "text": "Oh bring back my bonnie to me"
+    }
+  ]
+}

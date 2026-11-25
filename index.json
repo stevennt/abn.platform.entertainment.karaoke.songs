@@ -315,6 +315,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "my-bonnie",
+      "title": "My Bonnie Lies Over the Ocean",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 141700,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/my-bonnie/audio/backing.m4a",
+          "sha256": "f74e07aea6b8ba3d5b4bacf96dae52eeadd6834d267148e45586563b43d92731",
+          "bytes": 2298028
+        },
+        "lyrics": {
+          "path": "songs/my-bonnie/lyrics.json",
+          "sha256": "5b4d8874cf4d8bf43674519d662f7c4d625aa09037002ea4b5df6dbef0ec52a0",
+          "bytes": 989
+        },
+        "cover": {
+          "path": "songs/my-bonnie/cover.webp",
+          "sha256": "371643cc1dc5701191b650672d67be59efe10042af98bb18ac305438c3882bc1",
+          "bytes": 46584
+        }
+      },
+      "pack": {
+        "path": "packs/my-bonnie-f568c8f6.zip",
+        "sha256": "f568c8f63d08d192c8093bb2c965d7574a4ea9cd0a86b0d1f3a2c3926d214bd3",
+        "bytes": 2201106
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: traditional Scottish song, 19th century; public domain. Recording: Haydn Quartet, Public domain (https://commons.wikimedia.org/wiki/File%3AMy_Bonnie_lies_over_the_ocean_%28Haydn_Quartet%2C_1901%29.mp3); backing separated with demucs, lyric timings derived from the recording. Recording from 1901, public domain; the performance is out of copyright in every jurisdiction with a life-plus-70 term."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "neon-night",
       "title": "Neon Night",
       "artist": "ABN Asia",
