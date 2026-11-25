@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 19920,
+      "text": "Shine on, shine on harvest moon",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 20000,
+      "endMs": 27920,
+      "text": "Up in the sky",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 28000,
+      "endMs": 32920,
+      "text": "I ain't had no lovin' since January, February, June or July",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 33000,
+      "endMs": 35920,
+      "text": "Snow time ain't no time to stay outdoors and spoon",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 36000,
+      "endMs": 40000,
+      "text": "So shine on, shine on harvest moon, for me and my gal",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

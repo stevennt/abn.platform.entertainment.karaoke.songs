@@ -1378,6 +1378,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "shine-on-harvest-moon",
+      "title": "Shine On, Harvest Moon",
+      "artist": "Norworth and Bayes",
+      "language": "en",
+      "durationMs": 125300,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/shine-on-harvest-moon/audio/backing.m4a",
+          "sha256": "7fefc2d9e2927569b6e59f01c226be7c575943732540d9f7b330d95209ef9685",
+          "bytes": 2039695
+        },
+        "lyrics": {
+          "path": "songs/shine-on-harvest-moon/lyrics.json",
+          "sha256": "6c52a8f6126c91607e15f6ac773f431cc4d559319806d1448050beda8b8becc6",
+          "bytes": 922
+        },
+        "cover": {
+          "path": "songs/shine-on-harvest-moon/cover.webp",
+          "sha256": "5081f2b09454be5089b2b492b7351bc7ff35cc81e5be0f45c7f10954e1562a3d",
+          "bytes": 47892
+        }
+      },
+      "pack": {
+        "path": "packs/shine-on-harvest-moon-27d32227.zip",
+        "sha256": "27d32227ec1af9c4aeed6f15211f04552751d4d65287dddf0462d0bcc6c60dbf",
+        "bytes": 2015114
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words by Jack Norworth, music by Nora Bayes (1908); both public domain. Recording: Jack Norworth, Nora Bayes, Ada Jones, and Billy Murray, Public domain (https://commons.wikimedia.org/wiki/File%3AAda_Jones_and_Billy_Murray_-_Shine_On%2C_Harvest_Moon.ogg); backing separated with demucs, lyric timings derived from the recording. Performed by Ada Jones and Billy Murray; this recording is public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-25"
+    },
+    {
       "id": "silent-night",
       "title": "Silent Night",
       "artist": "Traditional",

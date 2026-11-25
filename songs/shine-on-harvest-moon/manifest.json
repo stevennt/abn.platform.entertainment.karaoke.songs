@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "shine-on-harvest-moon",
+  "title": "Shine On, Harvest Moon",
+  "artist": "Norworth and Bayes",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 125300,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Norworth and Bayes"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: words by Jack Norworth, music by Nora Bayes (1908); both public domain. Recording: Jack Norworth, Nora Bayes, Ada Jones, and Billy Murray, Public domain (https://commons.wikimedia.org/wiki/File%3AAda_Jones_and_Billy_Murray_-_Shine_On%2C_Harvest_Moon.ogg); backing separated with demucs, lyric timings derived from the recording. Performed by Ada Jones and Billy Murray; this recording is public domain on Wikimedia Commons."
+  }
+}
