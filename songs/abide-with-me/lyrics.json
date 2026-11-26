@@ -1,0 +1,37 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 24800,
+      "text": "Abide with me, fast falls the eventide",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 24880,
+      "endMs": 42480,
+      "text": "The darkness deepens, Lord, with me abide",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 42560,
+      "endMs": 62320,
+      "text": "When other helpers fail and comforts flee",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 62400,
+      "endMs": 66400,
+      "text": "Help of the helpless, oh, abide with me",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

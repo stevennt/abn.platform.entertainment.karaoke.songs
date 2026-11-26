@@ -3,6 +3,45 @@
   "updated": "2026-11-26",
   "songs": [
     {
+      "id": "abide-with-me",
+      "title": "Abide with Me",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 214936,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/abide-with-me/audio/backing.m4a",
+          "sha256": "1cde3c324cd206404ecabb1753c6e36afd936888e6b05cea627c213203c8360b",
+          "bytes": 3490095
+        },
+        "lyrics": {
+          "path": "songs/abide-with-me/lyrics.json",
+          "sha256": "58ec1d2e54d2bbdb1129795e624859d59b30fac79d19e25727ca7efb922a8d2f",
+          "bytes": 738
+        },
+        "cover": {
+          "path": "songs/abide-with-me/cover.webp",
+          "sha256": "71be4304d2138fd697b5f21f41e3b72413730d3494b1cb5c79a30aef15f0b523",
+          "bytes": 36756
+        }
+      },
+      "pack": {
+        "path": "packs/abide-with-me-3913bcfd.zip",
+        "sha256": "3913bcfda6c493ddb23d209dc2dd5e0ecd300a782a7e84ee53740c0aa640f412",
+        "bytes": 3432523
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words by Henry Francis Lyte (1820), music by William Henry Monk (1861); both public domain. Recording: Ruth Golding, Public Domain (https://commons.wikimedia.org/wiki/File%3AArmy_and_Navy_Hymnal-0009.ogg); backing separated with demucs, lyric timings derived from the recording. From The Army and Navy Hymnal, performed by Ruth Golding; released into the public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-26"
+    },
+    {
       "id": "alexanders-ragtime-band",
       "title": "Alexander's Ragtime Band",
       "artist": "Irving Berlin",
