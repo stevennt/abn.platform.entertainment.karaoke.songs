@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 25720,
+      "text": "Let us pause in life's pleasures and count its many tears",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 25800,
+      "endMs": 57840,
+      "text": "While we all sup sorrow with the poor",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 57920,
+      "endMs": 62840,
+      "text": "There's a song that will linger forever in our ears",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 62920,
+      "endMs": 68820,
+      "text": "Oh hard times come again no more",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 68900,
+      "endMs": 73820,
+      "text": "Tis the song, the sigh of the weary",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 73900,
+      "endMs": 78820,
+      "text": "Hard times, hard times, come again no more",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 78900,
+      "endMs": 84320,
+      "text": "Many days you have lingered around my cabin door",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 84400,
+      "endMs": 88400,
+      "text": "Oh hard times come again no more",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

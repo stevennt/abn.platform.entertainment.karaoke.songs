@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "hard-times",
+  "title": "Hard Times Come Again No More",
+  "artist": "Stephen Foster",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 191400,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Stephen Foster"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: words and music by Stephen Foster (1854); public domain. Recording: unknown, Public domain (https://commons.wikimedia.org/wiki/File%3ALouise_Homer_And_Male_Chorus_%E2%80%93_Hard_Times%2C_Come_Again_No_More.mp3); backing separated with demucs, lyric timings derived from the recording. Performed by Louise Homer and a male chorus; this recording is public domain on Wikimedia Commons."
+  }
+}

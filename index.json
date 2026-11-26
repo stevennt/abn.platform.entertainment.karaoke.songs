@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "songs": [
     {
       "id": "alexanders-ragtime-band",
@@ -742,6 +742,45 @@
       },
       "private": false,
       "updated": "2026-11-25"
+    },
+    {
+      "id": "hard-times",
+      "title": "Hard Times Come Again No More",
+      "artist": "Stephen Foster",
+      "language": "en",
+      "durationMs": 191400,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/hard-times/audio/backing.m4a",
+          "sha256": "4440bffaae132f8723f7b2d18b6f44034fb9a617919cf92aa44e3d88e2590479",
+          "bytes": 3104452
+        },
+        "lyrics": {
+          "path": "songs/hard-times/lyrics.json",
+          "sha256": "67b0d44746c773dfda7d685b5dad03cb5f66ebcd850aae23a3d03f8bdc7d1e8e",
+          "bytes": 1461
+        },
+        "cover": {
+          "path": "songs/hard-times/cover.webp",
+          "sha256": "9e440f7928d5485807d208780e9f488b85b7d7b8fcd94dee29407c5ababc7269",
+          "bytes": 40828
+        }
+      },
+      "pack": {
+        "path": "packs/hard-times-3b3f6bb9.zip",
+        "sha256": "3b3f6bb9b01aa7abe380fd51830a168100eb6a09fa1423013a003be5dce081b5",
+        "bytes": 2991113
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words and music by Stephen Foster (1854); public domain. Recording: unknown, Public domain (https://commons.wikimedia.org/wiki/File%3ALouise_Homer_And_Male_Chorus_%E2%80%93_Hard_Times%2C_Come_Again_No_More.mp3); backing separated with demucs, lyric timings derived from the recording. Performed by Louise Homer and a male chorus; this recording is public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-26"
     },
     {
       "id": "hark-the-herald",
