@@ -1173,6 +1173,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "master-the-tempest",
+      "title": "Master, the Tempest Is Raging",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 301500,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/master-the-tempest/audio/backing.m4a",
+          "sha256": "e5bca898578a9a8628b7a97c1b5a3362a464313d224bea121f61d49160ec6973",
+          "bytes": 4911532
+        },
+        "lyrics": {
+          "path": "songs/master-the-tempest/lyrics.json",
+          "sha256": "43d246b7f44d5b600cb4462e3e5863fc10b476d2a49f687d8082a0f30ad09924",
+          "bytes": 1368
+        },
+        "cover": {
+          "path": "songs/master-the-tempest/cover.webp",
+          "sha256": "a6a12b4deeac74e0717101efeeacdf053a438d365c750a141e6b5f6a86211267",
+          "bytes": 40128
+        }
+      },
+      "pack": {
+        "path": "packs/master-the-tempest-d06bdc57.zip",
+        "sha256": "d06bdc5704bdeeaa4ab9b9bdf8e3ec0390bbffb6686163c6115db91002d71d66",
+        "bytes": 4872156
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words and music by Mary Ann Baker and Horatio Palmer (1874); both public domain. Recording: Liberty Stump, Public Domain (https://commons.wikimedia.org/wiki/File%3AArmy_and_Navy_Hymnal-0053.ogg); backing separated with demucs, lyric timings derived from the recording. From The Army and Navy Hymnal; released into the public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-26"
+    },
+    {
       "id": "my-bonnie",
       "title": "My Bonnie Lies Over the Ocean",
       "artist": "Traditional",

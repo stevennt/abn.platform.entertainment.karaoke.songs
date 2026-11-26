@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 25120,
+      "text": "Master, the tempest is raging",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 25200,
+      "endMs": 45120,
+      "text": "The billows are tossing high",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 45200,
+      "endMs": 67120,
+      "text": "The sky is o'ershadowed with blackness",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 67200,
+      "endMs": 89120,
+      "text": "No shelter or help is nigh",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 89200,
+      "endMs": 109120,
+      "text": "Carest Thou not that we perish",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 109200,
+      "endMs": 138120,
+      "text": "How canst Thou lie asleep",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 138200,
+      "endMs": 167120,
+      "text": "The winds and the waves shall obey Thy will",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 167200,
+      "endMs": 171200,
+      "text": "Peace, be still",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}
