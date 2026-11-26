@@ -705,6 +705,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "grandfathers-clock",
+      "title": "Grandfather's Clock",
+      "artist": "Henry Clay Work",
+      "language": "en",
+      "durationMs": 132100,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/grandfathers-clock/audio/backing.m4a",
+          "sha256": "bccc953fd506c9220f34a4789317bdf7ee052cb68aea8afd9abb1864560e873f",
+          "bytes": 2141440
+        },
+        "lyrics": {
+          "path": "songs/grandfathers-clock/lyrics.json",
+          "sha256": "8549818f5ffe1dd04afbf2f4049d4001b19ecc8e0fd76d6b86340d88a503b424",
+          "bytes": 1450
+        },
+        "cover": {
+          "path": "songs/grandfathers-clock/cover.webp",
+          "sha256": "ded20dfb55f0f1cc608c9d704081408b4fa4f6bb9339c59d91e0ce7521717d02",
+          "bytes": 45730
+        }
+      },
+      "pack": {
+        "path": "packs/grandfathers-clock-0a253b80.zip",
+        "sha256": "0a253b80532b185544da49335afcb69264e92fca0b441f8b0bf0b1e65f9b15f0",
+        "bytes": 2078015
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words and music by Henry Clay Work (1876); public domain. Recording: Edison Quartet, later known as the Hayden Quartet, Public domain (https://commons.wikimedia.org/wiki/File%3A%22Grandfather%27s_Clock%22_by_Henry_C._Work_%E2%80%93_sung_by_the_Edison_Quartet_%281905%29.ogg); backing separated with demucs, lyric timings derived from the recording. Performed by the Edison Quartet; this recording is public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-26"
+    },
+    {
       "id": "greensleeves",
       "title": "Greensleeves",
       "artist": "Traditional",

@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 25920,
+      "text": "My grandfather's clock was too large for the shelf",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 26000,
+      "endMs": 40920,
+      "text": "So it stood ninety years on the floor",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 41000,
+      "endMs": 52920,
+      "text": "It was taller by half than the old man himself",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 53000,
+      "endMs": 59920,
+      "text": "Though it weighed not a pennyweight more",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 60000,
+      "endMs": 71920,
+      "text": "It was bought on the morn of the day that he was born",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 72000,
+      "endMs": 77920,
+      "text": "And was always his treasure and pride",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 78000,
+      "endMs": 84920,
+      "text": "But it stopped short, never to go again",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 85000,
+      "endMs": 89000,
+      "text": "When the old man died",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}
