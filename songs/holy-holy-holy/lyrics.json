@@ -1,0 +1,37 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 6920,
+      "text": "Holy, holy, holy, Lord God Almighty",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 7000,
+      "endMs": 9920,
+      "text": "Early in the morning our song shall rise to Thee",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 10000,
+      "endMs": 25920,
+      "text": "Holy, holy, holy, merciful and mighty",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 26000,
+      "endMs": 30000,
+      "text": "God in three persons, blessed Trinity",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

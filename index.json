@@ -900,6 +900,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "holy-holy-holy",
+      "title": "Holy, Holy, Holy",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 191100,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/holy-holy-holy/audio/backing.m4a",
+          "sha256": "7a40dd795f02dc9b66caf9678b80ddc014a59f0740193593b4a50c78e09458f7",
+          "bytes": 3107781
+        },
+        "lyrics": {
+          "path": "songs/holy-holy-holy/lyrics.json",
+          "sha256": "7164255eeec52e14b9139bf0a26bfd56d31efd037de97ca96969e1d20e870ec8",
+          "bytes": 733
+        },
+        "cover": {
+          "path": "songs/holy-holy-holy/cover.webp",
+          "sha256": "e2a1ef0ca95d7e182f6531dec534ed9b439a1f84d9cf0e7f5a7bccf39d3fd03c",
+          "bytes": 42208
+        }
+      },
+      "pack": {
+        "path": "packs/holy-holy-holy-3ded1b22.zip",
+        "sha256": "3ded1b22793a3705a5b9681901112482cd4cdb2545907117ccd8c48aa3ed5b6e",
+        "bytes": 3107242
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words by Reginald Heber (1826), music by John Bacchus Dykes (1861); both public domain. Recording: Kevin W. Davidson, Public Domain (https://commons.wikimedia.org/wiki/File%3AArmy_and_Navy_Hymnal-0004.ogg); backing separated with demucs, lyric timings derived from the recording. From The Army and Navy Hymnal; released into the public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-26"
+    },
+    {
       "id": "i-tell-me-ma",
       "title": "I Tell Me Ma",
       "artist": "Traditional",
