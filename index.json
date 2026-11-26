@@ -1134,6 +1134,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "nearer-my-god-to-thee",
+      "title": "Nearer, My God, to Thee",
+      "artist": "Traditional",
+      "language": "en",
+      "durationMs": 284600,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/nearer-my-god-to-thee/audio/backing.m4a",
+          "sha256": "a484bda914b7ef0cbfc6d0b0822df302576b75092e44838c3e8d13ede7e09106",
+          "bytes": 4620901
+        },
+        "lyrics": {
+          "path": "songs/nearer-my-god-to-thee/lyrics.json",
+          "sha256": "9706e4c445648a9c5d47933b18fdc341e4f23ac0737a8401c9527f0560c9c371",
+          "bytes": 884
+        },
+        "cover": {
+          "path": "songs/nearer-my-god-to-thee/cover.webp",
+          "sha256": "8acf28c70df3b0d5558e52e855e10f639825813306f78b98a8ad9d438af8f2c6",
+          "bytes": 39892
+        }
+      },
+      "pack": {
+        "path": "packs/nearer-my-god-to-thee-6e0ff989.zip",
+        "sha256": "6e0ff989aae6d7739a98ac9f643b29f61ce6b51883ad5eb8566427826ee7747a",
+        "bytes": 4586165
+      },
+      "licence": {
+        "type": "public-domain",
+        "note": "Composition: words by Sarah Flower Adams (1841), music by Lowell Mason (1856); both public domain. Recording: Maria Kasper, Public Domain (https://commons.wikimedia.org/wiki/File%3AArmy_and_Navy_Hymnal-0087.ogg); backing separated with demucs, lyric timings derived from the recording. From The Army and Navy Hymnal, performed by Maria Kasper; released into the public domain on Wikimedia Commons."
+      },
+      "private": false,
+      "updated": "2026-11-26"
+    },
+    {
       "id": "neon-night",
       "title": "Neon Night",
       "artist": "ABN Asia",

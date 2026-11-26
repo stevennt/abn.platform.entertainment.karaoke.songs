@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "nearer-my-god-to-thee",
+  "title": "Nearer, My God, to Thee",
+  "artist": "Traditional",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 284600,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Traditional"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "public-domain",
+    "note": "Composition: words by Sarah Flower Adams (1841), music by Lowell Mason (1856); both public domain. Recording: Maria Kasper, Public Domain (https://commons.wikimedia.org/wiki/File%3AArmy_and_Navy_Hymnal-0087.ogg); backing separated with demucs, lyric timings derived from the recording. From The Army and Navy Hymnal, performed by Maria Kasper; released into the public domain on Wikimedia Commons."
+  }
+}

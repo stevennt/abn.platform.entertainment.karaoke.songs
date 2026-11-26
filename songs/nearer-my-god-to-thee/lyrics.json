@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 30880,
+      "text": "Nearer, my God, to Thee, nearer to Thee",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 30960,
+      "endMs": 42560,
+      "text": "E'en though it be a cross that raiseth me",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 42640,
+      "endMs": 54560,
+      "text": "Still all my song shall be",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 54640,
+      "endMs": 66960,
+      "text": "Nearer, my God, to Thee",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 67040,
+      "endMs": 71040,
+      "text": "Nearer, my God, to Thee, nearer to Thee",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}
