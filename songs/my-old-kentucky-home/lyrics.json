@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "lines": [
+    {
+      "index": 0,
+      "startMs": 0,
+      "endMs": 25680,
+      "text": "The sun shines bright in the old Kentucky home",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 1,
+      "startMs": 25760,
+      "endMs": 34560,
+      "text": "Tis summer, the people are gay",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 2,
+      "startMs": 34640,
+      "endMs": 41520,
+      "text": "The corn top's ripe and the meadow's in the bloom",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 3,
+      "startMs": 41600,
+      "endMs": 48960,
+      "text": "While the birds make music all the day",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 4,
+      "startMs": 49040,
+      "endMs": 55840,
+      "text": "The young folks roll on the little cabin floor",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 5,
+      "startMs": 55920,
+      "endMs": 63600,
+      "text": "All merry, all happy and bright",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 6,
+      "startMs": 63680,
+      "endMs": 70640,
+      "text": "By and by hard times comes a-knocking at the door",
+      "singer": "solo",
+      "words": []
+    },
+    {
+      "index": 7,
+      "startMs": 70720,
+      "endMs": 74720,
+      "text": "Then my old Kentucky home, good night",
+      "singer": "solo",
+      "words": []
+    }
+  ]
+}

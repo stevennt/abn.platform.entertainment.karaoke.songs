@@ -1,0 +1,31 @@
+{
+  "format": 1,
+  "id": "my-old-kentucky-home",
+  "title": "My Old Kentucky Home",
+  "artist": "Stephen Foster",
+  "language": "en",
+  "bpm": 0,
+  "durationMs": 110400,
+  "key": "C",
+  "difficulty": 1,
+  "sections": [],
+  "assets": {
+    "backing": "audio/backing.m4a",
+    "lyrics": "lyrics.json",
+    "cover": "cover.webp"
+  },
+  "credits": [
+    {
+      "role": "music",
+      "name": "Stephen Foster"
+    },
+    {
+      "role": "lyrics",
+      "name": "not credited yet"
+    }
+  ],
+  "license": {
+    "type": "cc-by",
+    "note": "Composition: words and music by Stephen Foster (1853); public domain. Recording: Grantyny, CC BY 3.0 (https://commons.wikimedia.org/wiki/File%3A11_Old_Kentucky_Home.ogg); backing separated with demucs, lyric timings derived from the recording. Recording by Grantyny, released under CC BY 3.0 on Wikimedia Commons, so the credit is part of the licence. Foster's original chorus is omitted: it uses a term this catalogue will not print."
+  }
+}

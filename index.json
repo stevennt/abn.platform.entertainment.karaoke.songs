@@ -1251,6 +1251,45 @@
       "updated": "2026-11-25"
     },
     {
+      "id": "my-old-kentucky-home",
+      "title": "My Old Kentucky Home",
+      "artist": "Stephen Foster",
+      "language": "en",
+      "durationMs": 110400,
+      "bpm": 0,
+      "key": "C",
+      "difficulty": 1,
+      "mode": "lyrics-only",
+      "assets": {
+        "backing": {
+          "path": "songs/my-old-kentucky-home/audio/backing.m4a",
+          "sha256": "97f3b04a98487d3063c4aa01918ae85962ae611e94b8750cd0dde80b22fefcd0",
+          "bytes": 1791070
+        },
+        "lyrics": {
+          "path": "songs/my-old-kentucky-home/lyrics.json",
+          "sha256": "6ecb743f66bd27179dbedf1060458e03b5239293451b46e12d859fcabbdfae3f",
+          "bytes": 1453
+        },
+        "cover": {
+          "path": "songs/my-old-kentucky-home/cover.webp",
+          "sha256": "1312e393936e82a041e610223e5188bae6f48cabca1693c15458dc449e92da62",
+          "bytes": 45156
+        }
+      },
+      "pack": {
+        "path": "packs/my-old-kentucky-home-93710358.zip",
+        "sha256": "93710358f1cb464a8e5244e0ba54b97a32687003d5b718415fe4ae10f578f05f",
+        "bytes": 1784142
+      },
+      "licence": {
+        "type": "cc-by",
+        "note": "Composition: words and music by Stephen Foster (1853); public domain. Recording: Grantyny, CC BY 3.0 (https://commons.wikimedia.org/wiki/File%3A11_Old_Kentucky_Home.ogg); backing separated with demucs, lyric timings derived from the recording. Recording by Grantyny, released under CC BY 3.0 on Wikimedia Commons, so the credit is part of the licence. Foster's original chorus is omitted: it uses a term this catalogue will not print."
+      },
+      "private": false,
+      "updated": "2026-11-26"
+    },
+    {
       "id": "nearer-my-god-to-thee",
       "title": "Nearer, My God, to Thee",
       "artist": "Traditional",
